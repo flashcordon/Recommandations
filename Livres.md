@@ -11,8 +11,9 @@
 - The book of humans - Adam Rutherford
 - Petit cours d'autodéfense intellectuelle - Normand Baillaegeon
 - Une histoire de tout ou presque - Bill Bryson
-- Discours de la servitude volontaire (Etienne de la Boétie)
+- Discours de la servitude volontaire - Etienne de la Boétie
 - De la dictature à la démocratie - Gene Sharp
 - Thinking in systems - Donnella Meadows
 - Factfulness - Hans Rosling
 - Our common denominator - Christoph Antweiler
+- Terre des hommes - Antoine de Saint Exupéry
