@@ -10,7 +10,7 @@
 - Chaos - James Gleick
 - Norse Mythology - Neil Gaiman
 - The book of humans - Adam Rutherford
-- Petit cours d'autodéfense intellectuelle - Normand Baillaegeon
+- Petit cours d'autodéfense intellectuelle - Normand Baillargeon
 - Une histoire de tout ou presque - Bill Bryson
 - Discours de la servitude volontaire - Etienne de la Boétie
 - De la dictature à la démocratie - Gene Sharp
@@ -19,4 +19,5 @@
 - Our common denominator - Christoph Antweiler
 - Terre des hommes - Antoine de Saint Exupéry
 - Voyage dans le futur - Nikos Prantzos
-- Les dix mille ans oubliés qui ont fait l'histoire - Jean-Pau Demoule
+- Les dix mille ans oubliés qui ont fait l'histoire - Jean-Paul Demoule
+- Ada ou la beauté des nombres - Catherine Dufour
