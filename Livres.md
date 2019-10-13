@@ -17,3 +17,4 @@
 - Factfulness - Hans Rosling
 - Our common denominator - Christoph Antweiler
 - Terre des hommes - Antoine de Saint Exupéry
+- Voyage dans le futur - Nikos Prantzos
