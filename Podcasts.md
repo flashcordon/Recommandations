@@ -44,6 +44,8 @@
 - [The Future of Life](https://futureoflife.org/the-future-of-life-podcast/)
 - [The Worldshapers](https://theworldshapers.com/)
 - [Vie artificielle](http://vie-artificielle.com/)
+- [Futuremakers](https://podcasts.ox.ac.uk/series/futuremakers)
+> Oxford academics debate key issues for the future of society. Series two - Conversations on how we respond to a changing climate, and how humanity will cope and thrive in an uncertain future, with some of the world’s leading thinkers. Season One was all about Artificial Intelligence... Durée des épisodes : 1h. En anglais.
 
 ## Astronomie et espace
 
@@ -86,6 +88,8 @@
 > Le podcast de Génération Afrotopia qui s'approprie les grandes questions contemporaines, pour les penser depuis les Suds en général, et les mondes africains en particulier. Cultures, écologie, épistémologie, philosophie, économie, politique... Un moment d'oralité pour poser notre attention sur les enjeux civilisationnels de notre époque, explorer les voies - et entendre les voix - en dissonance avec le discours dominant. Entretiens avec des intellectuels, chercheurs, militants, artistes, entrepreneurs citoyens.  Durée des épisodes : entre 30 minutes et 1h. En français.
 - [Axiome](https://player.fm/series/axiome)
 - [Aeon Magazine Audio Edition](https://aeon.co/audio)
+- [Very Bad Wizards](https://verybadwizards.fireside.fm/)
+> Very Bad Wizards is a podcast featuring a philosopher (Tamler Sommers) and a psychologist (David Pizarro), who share a love for ethics, pop culture, and cognitive science, and who have a marked inability to distinguish sacred from profane. Each podcast includes discussions of moral philosophy, recent work on moral psychology and neuroscience, and the overlap between the two. Durée des épisodes : entre 1h et 2h. En anglais.
 
 ## Biologie
 
@@ -112,6 +116,8 @@
 - [Invisibilia](https://www.npr.org/programs/invisibilia)
 - [La tête dans le cerveau](https://podcloud.fr/podcast/la-tete-dans-le-cerveau)
 - [You are not so smart](https://youarenotsosmart.com/podcast/)
+- [Brain inspired](https://braininspired.co/)
+> Neuroscience and AI work better together. AI leverages current brain research to inform its work. Likewise, neuroscientists use AI tools to learn more about the workings of the brain. Durée des épisodes : 1h30. En anglais.
 
 ## Histoire
 
