@@ -109,3 +109,7 @@
 # Anthropology
 
 - [A partial perspective](https://www.youtube.com/channel/UCQfmlWYs-iSDL_gQIJCCxDw)
+
+# History
+
+- [British Museum](https://www.youtube.com/user/britishmuseum/videos)
