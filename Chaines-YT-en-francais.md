@@ -28,6 +28,7 @@
 - [Société Française d'Exobiologie](https://www.youtube.com/channel/UCAdvOFo8AkWq3tp_UeReZ3w)
 - [Science Clic](https://www.youtube.com/channel/UCV6uM3y-8TeO7JlCtcEN-Bg)
 - [La Minute Science](https://www.youtube.com/channel/UCwBn4dgV3kxzvcCKN3TbQOQ)
+- [HEIN?](https://www.youtube.com/channel/UClmMdBgP85LOjp-X1LPNGdw)
 
 
 ## Biologie
