@@ -6,4 +6,6 @@
 - Steven Universe
 - Hilda
 - La légende de Korra
+- Kidding
+- Watchmen
 - The Handmaid's Tales
