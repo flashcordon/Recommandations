@@ -9,7 +9,7 @@
 - The Information : a history, a theory, a flood
 - Chaos - James Gleick
 - Norse Mythology - Neil Gaiman
-- The book of humans - Adam Rutherford
+- A brief history of everyone who ever lived - Adam Rutherford
 - Petit cours d'autodéfense intellectuelle - Normand Baillargeon
 - Une histoire de tout ou presque - Bill Bryson
 - Discours de la servitude volontaire - Etienne de la Boétie
