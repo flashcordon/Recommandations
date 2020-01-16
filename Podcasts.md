@@ -118,6 +118,7 @@
 - [You are not so smart](https://youarenotsosmart.com/podcast/)
 - [Brain inspired](https://braininspired.co/)
 > Neuroscience and AI work better together. AI leverages current brain research to inform its work. Likewise, neuroscientists use AI tools to learn more about the workings of the brain. Durée des épisodes : 1h30. En anglais.
+- [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
 
 ## Histoire
 
@@ -144,6 +145,7 @@
 - [Sapiens](https://www.sapiens.org/sapiens-podcast/)
 - [Anthropology - University of Oxford](https://podcasts.ox.ac.uk/series/anthropology)
 - [The Human Zoo](https://www.bbc.co.uk/programmes/b036tbly)
+- [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
 
 ## Musique
 
