@@ -46,6 +46,7 @@
 - [Vie artificielle](http://vie-artificielle.com/)
 - [Futuremakers](https://podcasts.ox.ac.uk/series/futuremakers)
 > Oxford academics debate key issues for the future of society. Series two - Conversations on how we respond to a changing climate, and how humanity will cope and thrive in an uncertain future, with some of the world’s leading thinkers. Season One was all about Artificial Intelligence... Durée des épisodes : 1h. En anglais.
+- [Méta de Choc](https://www.metadechoc.fr/podcast)
 
 ## Astronomie et espace
 
