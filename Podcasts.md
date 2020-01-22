@@ -70,6 +70,7 @@
 
 ## Physique
 
+- [The joy of x](https://www.stitcher.com/podcast/the-joy-of-x)
 - [Daniel and Jorge explain the universe](https://www.danielandjorge.com/)
 - [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
 - [Quanta Magazine](https://www.quantamagazine.org/tag/podcast)
