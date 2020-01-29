@@ -22,6 +22,7 @@
 - [Baba Brinkman](https://www.youtube.com/user/babasword)
 - [Alex Dainis](https://www.youtube.com/channel/UCzl8GEjZbjgtVj0ppupdBbg)
 - [The Good Stuff](https://www.youtube.com/user/TheGoodStuff)
+- [Seeker](https://www.youtube.com/user/DNewsChannel/videos)
 
 # Astrophysics and Space
 
