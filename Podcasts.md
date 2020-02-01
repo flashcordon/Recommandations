@@ -99,6 +99,7 @@
 - [Le nid de pie](https://leniddepie.lepodcast.fr/)
 > Un podcast sur le comportement animal. Chroniques, interviews , conseils lectures et autres informations animales, présenté par Agatha Macpie, éthologue, spécialiste du comportement animal. Durée des épisodes : 45 minutes. En français.
 - [Sur les épaules de Darwin](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin)
+- [This podcast will kill you](http://thispodcastwillkillyou.com/)
 
 ## Environnement
 
