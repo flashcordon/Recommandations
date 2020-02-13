@@ -159,5 +159,9 @@
 
 - [Convergences](https://www.youtube.com/channel/UCkMF_DDKLtqlmfo2rZhIJJg/videos)
 
+## Vie académique
+
+- [Bien dans ma thèse](https://open.spotify.com/show/4Fv7yBEUMvjq3rJw9aBItn?si=ON0KqCcETZe1s1V9NdB5WA)
+> Podcast sur la vie des doctorant(e)s. Durée des épisodes : 40 minutes. En français.
 
 
