@@ -16,7 +16,6 @@
 - [Dr Nozman](https://www.youtube.com/user/DrNozman)
 - [String Theory](https://www.youtube.com/channel/UCfxwT02Bu5R7l21uMAu8H1w)
 - [Ideas in science](https://www.youtube.com/channel/UCGHrO209l9vmCurckpsSZhQ)
-- [La boîte à curiosités](https://youtu.be/qynShHw7VZM)
 
 ## Astronomie
 
@@ -43,6 +42,7 @@
 - [Connecsciences](https://www.youtube.com/channel/UCaTUwZuy7lq8XYTf74CnepQ)
 - [L'envers de a blouse](https://www.youtube.com/channel/UCZnVzAaoJu37Tkz6YJn4EUQ/videos)
 - [BioRev3](https://www.youtube.com/channel/UCtBB-Zq3v2ncoq3CoobrY_g)
+- [La boîte à curiosités](https://youtu.be/qynShHw7VZM)
 
 ## Psychologie
 
