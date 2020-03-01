@@ -151,6 +151,7 @@
 - [The Human Zoo](https://www.bbc.co.uk/programmes/b036tbly)
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
 - [Origin stories](https://leakeyfoundation.org/originstories/)
+- [Mondes sociaux](https://sms.hypotheses.org/category/podcasts)
 
 ## Musique
 
