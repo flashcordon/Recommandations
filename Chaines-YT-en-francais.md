@@ -16,6 +16,7 @@
 - [Dr Nozman](https://www.youtube.com/user/DrNozman)
 - [String Theory](https://www.youtube.com/channel/UCfxwT02Bu5R7l21uMAu8H1w)
 - [Ideas in science](https://www.youtube.com/channel/UCGHrO209l9vmCurckpsSZhQ)
+- [Axolot](https://www.youtube.com/channel/UC2_OG1L8DLTzQ7UrZVOk7OA)
 
 ## Astronomie
 
@@ -28,6 +29,7 @@
 - [Science Clic](https://www.youtube.com/channel/UCV6uM3y-8TeO7JlCtcEN-Bg)
 - [La Minute Science](https://www.youtube.com/channel/UCwBn4dgV3kxzvcCKN3TbQOQ)
 - [HEIN?](https://www.youtube.com/channel/UClmMdBgP85LOjp-X1LPNGdw)
+- [Rêves d'espace](https://www.youtube.com/user/idariane)
 
 
 ## Biologie
