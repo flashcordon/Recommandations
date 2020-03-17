@@ -8,4 +8,4 @@
 - Wonders of the universe
 - L'odyssée interstellaire
 - Chasseurs de mondes
-- Shirley Temple
+- [Shirley Temple](https://www.tenk.fr/les-films-de-l-uqam/shirley-temple.html) -  Audrey Nantel-Gagnon (2018)
