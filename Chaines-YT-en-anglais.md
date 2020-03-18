@@ -78,6 +78,10 @@
 - [The Jungle Diaries](https://www.youtube.com/channel/UClaC4xkueyTnrJQ6IvdMlgg/about)
 - [Ant Lab](https://www.youtube.com/user/adrianalansmith)
 
+# Neurosciences
+
+- [Neuroscientifically Challenged](https://www.youtube.com/channel/UCUgZq9PkDp1xaEivtcfJPSg)
+
 # Mathematics
 
 - [PBS Infinite](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g)
