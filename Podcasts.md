@@ -167,4 +167,8 @@
 - [Bien dans ma thèse](https://open.spotify.com/show/4Fv7yBEUMvjq3rJw9aBItn?si=ON0KqCcETZe1s1V9NdB5WA)
 > Podcast sur la vie des doctorant(e)s. Durée des épisodes : 40 minutes. En français.
 
+## Mathématiques
+
+- [L'oreille mathématique](https://maison-des-maths.paris/podcasts/)
+> Podcast de l'Institut Henri Poincaré. Une conversation mensuelle avec des mathématiciennes et mathématiciens pour mettre en lumière le tempérament et les idées de celles et ceux qui font les mathématiques contemporaines. Durée des épisodes : 30 minutes. En français.
 
