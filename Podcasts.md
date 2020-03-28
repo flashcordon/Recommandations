@@ -141,6 +141,7 @@
 - [Le comptoir du futur](https://podtail.com/fr/podcast/le-comptoir-du-futur/)
 - [Our opinions are correct](https://www.ouropinionsarecorrect.com/)
 - [Flash Forward](https://www.flashforwardpod.com/)
+- [C'est plus que de la SF](https://podcast.ausha.co/c-est-plus-que-de-la-sf)
 
 ## Sciences humaines et sociales
 
