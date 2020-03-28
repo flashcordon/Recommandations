@@ -17,6 +17,8 @@
 - [String Theory](https://www.youtube.com/channel/UCfxwT02Bu5R7l21uMAu8H1w)
 - [Ideas in science](https://www.youtube.com/channel/UCGHrO209l9vmCurckpsSZhQ)
 - [Axolot](https://www.youtube.com/channel/UC2_OG1L8DLTzQ7UrZVOk7OA)
+- [Le Malin Génie](https://www.youtube.com/channel/UCT8fproORyvh6lT296ShKVg)
+- [E-Penser](https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q)
 
 ## Astronomie
 
