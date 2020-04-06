@@ -5,6 +5,7 @@
 - [Du vent dans les synapses](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
 > Un magazine pour arpenter l’univers de la science, explorer la complexité du monde et s’émerveiller devant son infinie richesse, présenté par Daniel Fiévet. Durée des épisodes : 55 minutes. En français.
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
+> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 - [Complexity Podcast](https://santafe.edu/culture/podcast)
 > Podcast de l'institut Santa Fe, un institut de recherche sur les systèmes complexes. Conversations entre chercheurs sur des sujets liés aux systèmes complexes, des nuées d'oiseaux à l'origine de la vie. Durée des épisodes : entre 40 minutes et 1h. En anglais.
 - [Podcast science](https://www.podcastscience.fm/)
@@ -79,6 +80,8 @@
 - [Daniel and Jorge explain the universe](https://www.danielandjorge.com/)
 - [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
 - [Quanta Magazine](https://www.quantamagazine.org/tag/podcast)
+- [Mindscape](https://www.preposterousuniverse.com/podcast/)
+> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 
 ## Philosophie
 
@@ -86,6 +89,7 @@
 > Interviews de philosophes. Durée des épisodes : 20 minutes. En anglais. 
 - [History of pholosophy without any gaps](https://historyofphilosophy.net/)
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
+> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 - [Rationally speaking](http://rationallyspeakingpodcast.org/)
 - [The Panpsycast](https://thepanpsycast.com/panpsycast)
 - [Scepticisme scientifique](https://www.scepticisme-scientifique.com/)
@@ -105,6 +109,8 @@
 > Un podcast sur le comportement animal. Chroniques, interviews , conseils lectures et autres informations animales, présenté par Agatha Macpie, éthologue, spécialiste du comportement animal. Durée des épisodes : 45 minutes. En français.
 - [Sur les épaules de Darwin](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin)
 - [This podcast will kill you](http://thispodcastwillkillyou.com/)
+- [Mindscape](https://www.preposterousuniverse.com/podcast/)
+> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 
 ## Environnement
 
@@ -127,6 +133,9 @@
 - [Brain inspired](https://braininspired.co/)
 > Neuroscience and AI work better together. AI leverages current brain research to inform its work. Likewise, neuroscientists use AI tools to learn more about the workings of the brain. Durée des épisodes : 1h30. En anglais.
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
+> Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
+- [Mindscape](https://www.preposterousuniverse.com/podcast/)
+> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 
 ## Histoire
 
@@ -155,7 +164,7 @@
 - [Anthropology - University of Oxford](https://podcasts.ox.ac.uk/series/anthropology)
 - [The Human Zoo](https://www.bbc.co.uk/programmes/b036tbly)
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
-> Podcast créé par les membres du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
+> Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
 - [Origin stories](https://leakeyfoundation.org/originstories/)
 - [Mondes sociaux](https://sms.hypotheses.org/category/podcasts)
 
