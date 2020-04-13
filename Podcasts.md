@@ -38,6 +38,9 @@
 - [Principles of Complex systems](http://www.uvm.edu/pdodds/teaching/courses/2015-08UVM-300/episodes/)
 - [Nautilus Magazine Audio Edition](http://nautil.us/audio)
 - [The end of the world with Josh Clarke](https://www.theendwithjosh.com/)
+> We humans could have a bright future ahead of us that lasts billions of years. But we have to survive the next 200 years
+first. Join Josh Clark of Stuff You Should Know for a 10-episode deep dive that explores the future of humanity and finds
+dangers we have never encountered before lurking just ahead. Durée des épisodes : entre 40 minutes et 1h10. En anglais.
 - [Palaeo After Dark](https://www.palaeoafterdark.com/)
 - [Global Development - The Guardian](https://www.theguardian.com/global-development/global-development+content/podcast)
 - [La Bougeotte](http://www.radio-en-ligne.fr/podcasts/la-bougeotte-laura-fernandez-rodriguez-daisy-lorenzi-et-marine-perin-1289961373)
