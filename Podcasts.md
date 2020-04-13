@@ -9,6 +9,7 @@
 - [Complexity Podcast](https://santafe.edu/culture/podcast)
 > Podcast de l'institut Santa Fe, un institut de recherche sur les systèmes complexes. Conversations entre chercheurs sur des sujets liés aux systèmes complexes, des nuées d'oiseaux à l'origine de la vie. Durée des épisodes : entre 40 minutes et 1h. En anglais.
 - [Podcast science](https://www.podcastscience.fm/)
+> Podcast de vulgarisation sur tous les sujets. Un épisode par semaine depuis 2010. Durée des épisodes : entre 1h et 2h30. En français.
 - [Le labo des savoirs](https://labodessavoirs.fr/)
 - [The 80,000 Hours Podcast with Rob Wiblin](https://80000hours.org/podcast/)
 - [99% invisible](https://99percentinvisible.org/)
