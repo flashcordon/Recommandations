@@ -21,6 +21,7 @@
 - [The infinite Monkey cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
 - [Le temps d'un bivouac](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
 - [Les couilles sur la table](https://www.binge.audio/category/les-couilles-sur-la-table/)
+> Un jeudi sur deux, Victoire Tuaillon parle en profondeur d’un aspect des masculinités contemporaines avec un·e invité·e. Parce qu’on ne naît pas homme, on le devient. Durée des épisodes : 30 minutes à 1h. En français.
 - [Nature podcast](https://www.nature.com/nature/articles?type=nature-podcast)
 - [Sismique](http://podcast.sismique.fr/)
 - [La tête au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
