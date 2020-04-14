@@ -12,6 +12,7 @@
 > Podcast de vulgarisation sur tous les sujets. Un épisode par semaine depuis 2010. Durée des épisodes : entre 1h et 2h30. En français.
 - [Le labo des savoirs](https://labodessavoirs.fr/)
 - [The 80,000 Hours Podcast with Rob Wiblin](https://80000hours.org/podcast/)
+> A show about the world's most pressing problems and how you can use your career to solve them. Durée des épisodes : 2 à 3h. En anglais.
 - [99% invisible](https://99percentinvisible.org/)
 - [The story collider](https://www.storycollider.org/)
 - [Radiolab](https://www.wnycstudios.org/shows/radiolab/podcasts)
