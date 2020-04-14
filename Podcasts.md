@@ -168,6 +168,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Sociodyssée](https://soundcloud.com/socio-dyssee/sociodyssee-1-lencastrement)
 > Podcast de sociologie. Durée des épisodes : 20 minutes. En français.
 - [Sapiens](https://www.sapiens.org/sapiens-podcast/)
+> SAPIENS podcast hosts Jen Shannon, Esteban Gómez, and Chip Colwell speak with anthropologists from around the globe to help us uncover what makes us human. Durée des épisodes : 20 minutes à 1h. En anglais.
 - [Anthropology - University of Oxford](https://podcasts.ox.ac.uk/series/anthropology)
 - [The Human Zoo](https://www.bbc.co.uk/programmes/b036tbly)
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
