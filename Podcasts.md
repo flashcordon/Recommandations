@@ -16,6 +16,7 @@
 - [99% invisible](https://99percentinvisible.org/)
 - [The story collider](https://www.storycollider.org/)
 - [Radiolab](https://www.wnycstudios.org/shows/radiolab/podcasts)
+> A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder. Durée des épisodes : 20 minutes à 1h. En anglais.
 - [Oratio](https://shows.pippa.io/oratio)
 - [The infinite Monkey cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
 - [Le temps d'un bivouac](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
