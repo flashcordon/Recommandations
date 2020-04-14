@@ -61,6 +61,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [The History of exploration Podcast](https://historyofexploration.net/)
 - [The explorers Podcast](https://explorerspodcast.com/)
 
+
 ## Astronomie et espace
 
 - [Le modèle standard](http://lemodelestandard.fr/)
@@ -118,6 +119,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [This podcast will kill you](http://thispodcastwillkillyou.com/)
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
+- [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
+> Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
 
 ## Environnement
 
@@ -131,6 +134,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [America adapts](https://www.americaadapts.org/)
 - [Hakai Magazine Audio Edition](https://www.hakaimagazine.com/audio-edition/)
 - [Climate History Podcast](https://www.historicalclimatology.com/interviews)
+- [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
+> Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
 
 ## Neurosciences
 
