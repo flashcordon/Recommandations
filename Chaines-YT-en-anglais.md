@@ -23,6 +23,7 @@
 - [Alex Dainis](https://www.youtube.com/channel/UCzl8GEjZbjgtVj0ppupdBbg)
 - [The Good Stuff](https://www.youtube.com/user/TheGoodStuff)
 - [Seeker](https://www.youtube.com/user/DNewsChannel/videos)
+- [Susanna L Harris](https://www.youtube.com/channel/UCq-WYDxJtCnjv7KUZ7kUObQ)
 
 # Astrophysics and Space
 
