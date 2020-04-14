@@ -174,7 +174,9 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
 > Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
 - [Origin stories](https://leakeyfoundation.org/originstories/)
+> Origin Stories is The Leakey Foundation’s podcast about how we became human.Durée des épisodes : 30 minutes à 1h. En anglais.
 - [Mondes sociaux](https://sms.hypotheses.org/category/podcasts)
+> Podcast du Magazine des sciences humaines et sociales aux sujets variés. Durée des épisodes : 1h à 1h30. En français.
 
 ## Musique
 
