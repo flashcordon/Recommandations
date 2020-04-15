@@ -51,6 +51,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Oh no Ross and Carrie](http://ohnopodcast.com/)
 - [Center for Global Development Podcast](https://www.cgdev.org/cgd-podcast)
 - [The Future of Life](https://futureoflife.org/the-future-of-life-podcast/)
+> The Future of Life Institute's podcast series features FLI’s Ariel Conn in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. Durée des épisodes : 30 minutes à 2h. En anglais.
 - [The Worldshapers](https://theworldshapers.com/)
 - [Vie artificielle](http://vie-artificielle.com/)
 - [Futuremakers](https://podcasts.ox.ac.uk/series/futuremakers)
