@@ -14,6 +14,7 @@
 - [The 80,000 Hours Podcast with Rob Wiblin](https://80000hours.org/podcast/)
 > A show about the world's most pressing problems and how you can use your career to solve them. Durée des épisodes : 2 à 3h. En anglais.
 - [99% invisible](https://99percentinvisible.org/)
+> 99% Invisible is about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world. Durée des épisodes : entre 20 minutes et 1h. En anglais.
 - [The story collider](https://www.storycollider.org/)
 - [Radiolab](https://www.wnycstudios.org/shows/radiolab/podcasts)
 > A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder. Durée des épisodes : 20 minutes à 1h. En anglais.
