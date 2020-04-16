@@ -20,6 +20,7 @@
 - [Radiolab](https://www.wnycstudios.org/shows/radiolab/podcasts)
 > A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder. Durée des épisodes : 20 minutes à 1h. En anglais.
 - [Oratio](https://shows.pippa.io/oratio)
+> Oratio est un podcast National Geographic. Tous les quinze jours, Oratio vous emmène à la rencontre de scientifiques, d'explorateurs, d'activistes et de chercheurs qui partageront avec vous leur passion et leur engagement. Durée des épisodes : 30 minutes. En français.
 - [The infinite Monkey cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
 - [Le temps d'un bivouac](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
 - [Les couilles sur la table](https://www.binge.audio/category/les-couilles-sur-la-table/)
