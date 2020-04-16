@@ -26,6 +26,7 @@
 - [Les couilles sur la table](https://www.binge.audio/category/les-couilles-sur-la-table/)
 > Un jeudi sur deux, Victoire Tuaillon parle en profondeur d’un aspect des masculinités contemporaines avec un·e invité·e. Parce qu’on ne naît pas homme, on le devient. Durée des épisodes : 30 minutes à 1h. En français.
 - [Nature podcast](https://www.nature.com/nature/articles?type=nature-podcast)
+> Each week Nature publishes a free audio show. It's hosted by Kerri Smith, with reporters Noah Baker, Ewen Callaway, Thea Cunningham and Charlotte Stoddart. Every show features highlighted content from the week's edition of Nature including interviews with the people behind the science, and in-depth commentary and analysis from journalists covering science around the world. Durée des épisodes : 30 minutes. En anglais.
 - [Sismique](http://podcast.sismique.fr/)
 - [La tête au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
 - [Reasonably sound](http://reasonablysound.com/)
