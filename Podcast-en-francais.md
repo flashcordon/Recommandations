@@ -58,6 +58,7 @@
 > Un podcast de conversations avec des chercheurs sur les questions liées à l'environnement et à la biodiversité. Durée des épisodes : 30 minutes. En français. 
 - [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
 - [Présages](https://www.presages.fr/)
+> Présages, des idées pour nourrir l’esprit et remettre radicalement en question l’état de notre monde. Durée des épisodes : 15 minutes à 1h.
 - [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
 > Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
 
