@@ -16,6 +16,7 @@
 - [99% invisible](https://99percentinvisible.org/)
 > 99% Invisible is about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world. Durée des épisodes : entre 20 minutes et 1h. En anglais.
 - [The story collider](https://www.storycollider.org/)
+> Whether we wear a lab coat or haven't seen a test tube since grade school, science is shaping all of our lives. And that means we all have science stories to tell. Every year, we host dozens of live shows all over the country, featuring all kinds of storytellers - researchers, doctors, and engineers of course, but also patients, poets, comedians, cops, and more. Some of our stories are heartbreaking, others are hilarious, but they're all true and all very personal. Durée des épisodes : 15 à 30 minutes. En anglais.
 - [Radiolab](https://www.wnycstudios.org/shows/radiolab/podcasts)
 > A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder. Durée des épisodes : 20 minutes à 1h. En anglais.
 - [Oratio](https://shows.pippa.io/oratio)
