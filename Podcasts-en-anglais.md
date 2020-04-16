@@ -1,16 +1,12 @@
 # Liste de podcasts
 
-## Varié
+## Miscellaneous
 
-- [Du vent dans les synapses](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
-> Un magazine pour arpenter l’univers de la science, explorer la complexité du monde et s’émerveiller devant son infinie richesse, présenté par Daniel Fiévet. Durée des épisodes : 55 minutes. En français.
+
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 - [Complexity Podcast](https://santafe.edu/culture/podcast)
 > Podcast de l'institut Santa Fe, un institut de recherche sur les systèmes complexes. Conversations entre chercheurs sur des sujets liés aux systèmes complexes, des nuées d'oiseaux à l'origine de la vie. Durée des épisodes : entre 40 minutes et 1h. En anglais.
-- [Podcast science](https://www.podcastscience.fm/)
-> Podcast de vulgarisation sur tous les sujets. Un épisode par semaine depuis 2010. Durée des épisodes : entre 1h et 2h30. En français.
-- [Le labo des savoirs](https://labodessavoirs.fr/)
 - [The 80,000 Hours Podcast with Rob Wiblin](https://80000hours.org/podcast/)
 > A show about the world's most pressing problems and how you can use your career to solve them. Durée des épisodes : 2 à 3h. En anglais.
 - [99% invisible](https://99percentinvisible.org/)
@@ -19,26 +15,16 @@
 > Whether we wear a lab coat or haven't seen a test tube since grade school, science is shaping all of our lives. And that means we all have science stories to tell. Every year, we host dozens of live shows all over the country, featuring all kinds of storytellers - researchers, doctors, and engineers of course, but also patients, poets, comedians, cops, and more. Some of our stories are heartbreaking, others are hilarious, but they're all true and all very personal. Durée des épisodes : 15 à 30 minutes. En anglais.
 - [Radiolab](https://www.wnycstudios.org/shows/radiolab/podcasts)
 > A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder. Durée des épisodes : 20 minutes à 1h. En anglais.
-- [Oratio](https://shows.pippa.io/oratio)
-> Oratio est un podcast National Geographic. Tous les quinze jours, Oratio vous emmène à la rencontre de scientifiques, d'explorateurs, d'activistes et de chercheurs qui partageront avec vous leur passion et leur engagement. Durée des épisodes : 30 minutes. En français.
 - [The infinite Monkey cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
-- [Le temps d'un bivouac](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
-- [Les couilles sur la table](https://www.binge.audio/category/les-couilles-sur-la-table/)
-> Un jeudi sur deux, Victoire Tuaillon parle en profondeur d’un aspect des masculinités contemporaines avec un·e invité·e. Parce qu’on ne naît pas homme, on le devient. Durée des épisodes : 30 minutes à 1h. En français.
 - [Nature podcast](https://www.nature.com/nature/articles?type=nature-podcast)
 > Each week Nature publishes a free audio show. It's hosted by Kerri Smith, with reporters Noah Baker, Ewen Callaway, Thea Cunningham and Charlotte Stoddart. Every show features highlighted content from the week's edition of Nature including interviews with the people behind the science, and in-depth commentary and analysis from journalists covering science around the world. Durée des épisodes : 30 minutes. En anglais.
-- [Sismique](http://podcast.sismique.fr/)
-- [La tête au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
 - [Reasonably sound](http://reasonablysound.com/)
 - [Seminars about long term thinking](http://longnow.org/seminars/)
 - [Stuff to blow your mind](https://www.stufftoblowyourmind.com/podcasts)
-- [Collège de France](https://www.college-de-france.fr/site/listes-infos/Podcast.htm)
 - [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
 - [La méthode scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique)
 > De l'astrophysique à la paléontologie, de la médecine à l'épistémologie, La Méthode Scientifique enfile sa blouse, remonte ses manches et vous propose chaque jour une heure de savoir autour des sciences, toutes les sciences, et sur les problématiques éthiques, politiques, économiques et sociales qui font l'actualité de la recherche. Avec du lundi au vendredi des grandes thématiques pour séquencer la semaine : Humain/s, Planète/s, Futur/s, Histoire/s et une table ronde consacrée à l'actualité scientifique et au dialogue entre culture et fiction. Durée des épisodes : 1h. En français.
 - [Flash Forward](https://www.flashforwardpod.com/)
-- [Trensistor](https://www.trensistor.fr/)
-- [Version Originale](https://soundcloud.com/madeinloriginale)
 - [Damn Interesting Podcast](https://www.damninteresting.com/podcast/)
 - [This American Life](https://www.thisamericanlife.org/)- [This study shows](https://secure.wiley.com/this-study-shows-homepage?HootPostID=c1baec88-f139-4340-9cec-863643072bb1&Socialprofile=wileyinresearch&Socialnetwork=twitter&fbclid=IwAR319RRjd9rGLdzjrqNVG5XOVj0uXWgQYFwPsrkXWcB439F5JnpiYHfqR4I)
 > Un podcast sur la communication des sciences. Durée des épisodes : 30 minutes. En anglais.
@@ -51,44 +37,31 @@ first. Join Josh Clark of Stuff You Should Know for a 10-episode deep dive that 
 dangers we have never encountered before lurking just ahead. Durée des épisodes : entre 40 minutes et 1h10. En anglais.
 - [Palaeo After Dark](https://www.palaeoafterdark.com/)
 - [Global Development - The Guardian](https://www.theguardian.com/global-development/global-development+content/podcast)
-- [La Bougeotte](http://www.radio-en-ligne.fr/podcasts/la-bougeotte-laura-fernandez-rodriguez-daisy-lorenzi-et-marine-perin-1289961373)
 - [Oh no Ross and Carrie](http://ohnopodcast.com/)
 - [Center for Global Development Podcast](https://www.cgdev.org/cgd-podcast)
 - [The Future of Life](https://futureoflife.org/the-future-of-life-podcast/)
 > The Future of Life Institute's podcast series features FLI’s Ariel Conn in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. Durée des épisodes : 30 minutes à 2h. En anglais.
 - [The Worldshapers](https://theworldshapers.com/)
-- [Vie artificielle](http://vie-artificielle.com/)
 - [Futuremakers](https://podcasts.ox.ac.uk/series/futuremakers)
 > Oxford academics debate key issues for the future of society. Series two - Conversations on how we respond to a changing climate, and how humanity will cope and thrive in an uncertain future, with some of the world’s leading thinkers. Season One was all about Artificial Intelligence... Durée des épisodes : 1h. En anglais.
-- [Méta de Choc](https://www.metadechoc.fr/podcast)
-- [Savants sachant chercher](http://scienceinfuse.cool/)
 - [Armchair Explorer](https://www.armchair-explorer.com/)
 - [Overheard at National Geographic](https://www.nationalgeographic.com/podcasts/overheard/)
 - [The History of exploration Podcast](https://historyofexploration.net/)
 - [The explorers Podcast](https://explorerspodcast.com/)
 
+## Space and astronomy
 
-## Astronomie et espace
-
-- [Le modèle standard](http://lemodelestandard.fr/)
-> Un podcast qui mèle musique Jazz et astronomie. Durée des épisodes : 1h. En français.
-- [Dans la Lune](http://dans-la-lune.fr/category/podcast/)
-> Podcast sur l'astronomie et le spatial. En français.
 - [Big Picture Science](http://radio.seti.org/)
-- [Ca se passe là-haut](http://www.ca-se-passe-la-haut.fr/)
-- [Ciel et Espace](https://player.fm/series/ciel-espace)
-- [L'espace en tête](https://www.europe1.fr/emissions/lespace-en-tete)
 - [Star Talk Radio](https://www.startalkradio.net/)
 - [The space show](https://www.thespaceshow.com/)
 - [Planetary Radio](http://www.planetary.org/multimedia/planetary-radio/)
 - [Science and Futurism with Isaac Arthur](https://player.fm/series/science-futurism-with-isaac-arthur)
 - [Daniel and Jorge explain the universe](https://www.danielandjorge.com/)
-- [La folle histoire de l'univers](https://podcasts.apple.com/fr/podcast/la-folle-histoire-de-lunivers/id564587024)
 - [Houston we have a podcast](https://www.nasa.gov/johnson/HWHAP)
 - [Exocast](http://www.exocast.org/)
 > Un podcast sur les dernières nouvelles de la science des exoplanètes. Durée des épisodes : 1h. En anglais. 
 
-## Physique
+## Physics
 
 - [The joy of x](https://www.stitcher.com/podcast/the-joy-of-x)
 - [Daniel and Jorge explain the universe](https://www.danielandjorge.com/)
@@ -97,7 +70,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 
-## Philosophie
+## Philosophy
 
 - [Philosophy bites](https://philosophybites.com/)
 > Interviews de philosophes. Durée des épisodes : 20 minutes. En anglais. 
@@ -107,56 +80,38 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Rationally speaking](http://rationallyspeakingpodcast.org/)
 - [The Panpsycast](https://thepanpsycast.com/panpsycast)
 > A weekly 'informal and informative' philosophy podcast inspiring and supporting students, teachers, academics, and free-thinkers worldwide. Durée des épisodes : 30 minutes à 1h. En anglais.
-- [Scepticisme scientifique](https://www.scepticisme-scientifique.com/)
 - [The Happier hour](https://www.thehappierhour.org/)
 - [Alan Watts podcast](http://www.alanwattspodcast.com/)
-- [Afrotopiques](https://soundcloud.com/user-482486519)
-> Le podcast de Génération Afrotopia qui s'approprie les grandes questions contemporaines, pour les penser depuis les Suds en général, et les mondes africains en particulier. Cultures, écologie, épistémologie, philosophie, économie, politique... Un moment d'oralité pour poser notre attention sur les enjeux civilisationnels de notre époque, explorer les voies - et entendre les voix - en dissonance avec le discours dominant. Entretiens avec des intellectuels, chercheurs, militants, artistes, entrepreneurs citoyens.  Durée des épisodes : entre 30 minutes et 1h. En français.
-- [Axiome](https://player.fm/series/axiome)
 - [Aeon Magazine Audio Edition](https://aeon.co/audio)
 - [Very Bad Wizards](https://verybadwizards.fireside.fm/)
 > Very Bad Wizards is a podcast featuring a philosopher (Tamler Sommers) and a psychologist (David Pizarro), who share a love for ethics, pop culture, and cognitive science, and who have a marked inability to distinguish sacred from profane. Each podcast includes discussions of moral philosophy, recent work on moral psychology and neuroscience, and the overlap between the two. Durée des épisodes : entre 1h et 2h. En anglais.
 
-## Biologie
+## Biology
 
 - [What is Life ?](https://medium.com/@carlzimmer/what-is-life-a-podcast-series-7e91cb9a491b)
-- [Le nid de pie](https://leniddepie.lepodcast.fr/)
-> Un podcast sur le comportement animal. Chroniques, interviews , conseils lectures et autres informations animales, présenté par Agatha Macpie, éthologue, spécialiste du comportement animal. Durée des épisodes : 45 minutes. En français.
-- [Sur les épaules de Darwin](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin)
 - [This podcast will kill you](http://thispodcastwillkillyou.com/)
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
-- [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
-> Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
 
-## Environnement
+## Environement
 
-- [Podcast de Nadège Joly](https://soundcloud.com/nad-ge-joly/sets/podcast-crises)
-> Un podcast de conversations avec des chercheurs sur les questions liées à l'environnement et à la biodiversité. Durée des épisodes : 30 minutes. En français. 
 - [Warm regards](https://soundcloud.com/warmregardspodcast)
 - [The Anthropocene Reviewed](https://soundcloud.com/theanthropocenereviewed)
-- [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
-- [Présages](https://www.presages.fr/)
 - [Generation Anthropocene](https://soundcloud.com/generation-anthropocene)
 - [America adapts](https://www.americaadapts.org/)
 - [Hakai Magazine Audio Edition](https://www.hakaimagazine.com/audio-edition/)
 - [Climate History Podcast](https://www.historicalclimatology.com/interviews)
-- [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
-> Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
 
 ## Neurosciences
 
 - [Invisibilia](https://www.npr.org/programs/invisibilia)
-- [La tête dans le cerveau](https://podcloud.fr/podcast/la-tete-dans-le-cerveau)
 - [You are not so smart](https://youarenotsosmart.com/podcast/)
 - [Brain inspired](https://braininspired.co/)
 > Neuroscience and AI work better together. AI leverages current brain research to inform its work. Likewise, neuroscientists use AI tools to learn more about the workings of the brain. Durée des épisodes : 1h30. En anglais.
-- [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
-> Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 
-## Histoire
+## History
 
 - [The podcast history of our world](https://www.stitcher.com/podcast/the-podcast-history-of-our-world)
 - [The history of Byzantium](https://thehistoryofbyzantium.com/)
@@ -165,47 +120,19 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [In our time](https://www.bbc.co.uk/programmes/articles/598SVYJ2smP8qJlpH29y7Vj/podcasts)
 - [Climate History Podcast](https://www.historicalclimatology.com/interviews)
 
-## Fiction et écriture
+## Fiction and writing
 
 - [Science and Futurism with Isaac Arthur](https://player.fm/series/science-futurism-with-isaac-arthur)
 - [Harry Potter and the Methods of rationality](http://www.hpmorpodcast.com/)
 - [Imaginary worlds](https://www.imaginaryworldspodcast.org/)
-- [Le comptoir du futur](https://podtail.com/fr/podcast/le-comptoir-du-futur/)
 - [Our opinions are correct](https://www.ouropinionsarecorrect.com/)
 - [Flash Forward](https://www.flashforwardpod.com/)
-- [C'est plus que de la SF](https://podcast.ausha.co/c-est-plus-que-de-la-sf)
 
-## Sciences humaines et sociales
+## Social sciences and Humanities
 
-- [Sociodyssée](https://soundcloud.com/socio-dyssee/sociodyssee-1-lencastrement)
-> Podcast de sociologie. Durée des épisodes : 20 minutes. En français.
 - [Sapiens](https://www.sapiens.org/sapiens-podcast/)
 > SAPIENS podcast hosts Jen Shannon, Esteban Gómez, and Chip Colwell speak with anthropologists from around the globe to help us uncover what makes us human. Durée des épisodes : 20 minutes à 1h. En anglais.
 - [Anthropology - University of Oxford](https://podcasts.ox.ac.uk/series/anthropology)
 - [The Human Zoo](https://www.bbc.co.uk/programmes/b036tbly)
-- [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
-> Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
 - [Origin stories](https://leakeyfoundation.org/originstories/)
 > Origin Stories is The Leakey Foundation’s podcast about how we became human.Durée des épisodes : 30 minutes à 1h. En anglais.
-- [Mondes sociaux](https://sms.hypotheses.org/category/podcasts)
-> Podcast du Magazine des sciences humaines et sociales aux sujets variés. Durée des épisodes : 1h à 1h30. En français.
-
-## Musique
-
-- [Phaune Radio](https://phauneradio.com/)
-- [La planète bleue](https://laplanetebleue.com/emissions)
-
-## Politique 
-
-- [Convergences](https://www.youtube.com/channel/UCkMF_DDKLtqlmfo2rZhIJJg/videos)
-
-## Vie académique
-
-- [Bien dans ma thèse](https://open.spotify.com/show/4Fv7yBEUMvjq3rJw9aBItn?si=ON0KqCcETZe1s1V9NdB5WA)
-> Podcast sur la vie des doctorant(e)s. Durée des épisodes : 40 minutes. En français.
-
-## Mathématiques
-
-- [L'oreille mathématique](https://maison-des-maths.paris/podcasts/)
-> Podcast de l'Institut Henri Poincaré. Une conversation mensuelle avec des mathématiciennes et mathématiciens pour mettre en lumière le tempérament et les idées de celles et ceux qui font les mathématiques contemporaines. Durée des épisodes : 30 minutes. En français.
-
