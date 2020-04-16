@@ -72,6 +72,7 @@
 ## Informatique
 
 - [Vie artificielle](http://vie-artificielle.com/)
+> Podcast de Xil'Cast qui explore la nature du vivant. Durée des épisodes : 15 à 45 minutes.
 
 ## Fiction et écriture
 
