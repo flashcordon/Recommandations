@@ -106,6 +106,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 - [Rationally speaking](http://rationallyspeakingpodcast.org/)
 - [The Panpsycast](https://thepanpsycast.com/panpsycast)
+> A weekly 'informal and informative' philosophy podcast inspiring and supporting students, teachers, academics, and free-thinkers worldwide. Durée des épisodes : 30 minutes à 1h. En anglais.
 - [Scepticisme scientifique](https://www.scepticisme-scientifique.com/)
 - [The Happier hour](https://www.thehappierhour.org/)
 - [Alan Watts podcast](http://www.alanwattspodcast.com/)
