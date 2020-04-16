@@ -16,6 +16,7 @@
 - [Radiolab](https://www.wnycstudios.org/shows/radiolab/podcasts)
 > A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder. Durée des épisodes : 20 minutes à 1h. En anglais.
 - [The infinite Monkey cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
+> Witty, irreverent look at the world through scientists' eyes. With Brian Cox and Robin Ince. On BBC Radio 4. Durée des épisodes : 45 minutes à 1h.
 - [Nature podcast](https://www.nature.com/nature/articles?type=nature-podcast)
 > Each week Nature publishes a free audio show. It's hosted by Kerri Smith, with reporters Noah Baker, Ewen Callaway, Thea Cunningham and Charlotte Stoddart. Every show features highlighted content from the week's edition of Nature including interviews with the people behind the science, and in-depth commentary and analysis from journalists covering science around the world. Durée des épisodes : 30 minutes. En anglais.
 - [Reasonably sound](http://reasonablysound.com/)
