@@ -35,6 +35,7 @@
 - [Collège de France](https://www.college-de-france.fr/site/listes-infos/Podcast.htm)
 - [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
 - [La méthode scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique)
+> De l'astrophysique à la paléontologie, de la médecine à l'épistémologie, La Méthode Scientifique enfile sa blouse, remonte ses manches et vous propose chaque jour une heure de savoir autour des sciences, toutes les sciences, et sur les problématiques éthiques, politiques, économiques et sociales qui font l'actualité de la recherche. Avec du lundi au vendredi des grandes thématiques pour séquencer la semaine : Humain/s, Planète/s, Futur/s, Histoire/s et une table ronde consacrée à l'actualité scientifique et au dialogue entre culture et fiction. Durée des épisodes : 1h. En français.
 - [Flash Forward](https://www.flashforwardpod.com/)
 - [Trensistor](https://www.trensistor.fr/)
 - [Version Originale](https://soundcloud.com/madeinloriginale)
