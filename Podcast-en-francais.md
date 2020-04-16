@@ -75,6 +75,7 @@
 ## Fiction et écriture
 
 - [Le comptoir du futur](https://podtail.com/fr/podcast/le-comptoir-du-futur/)
+> Le comptoir du futur, c’est l’histoire de deux amis journalistes. Ils se désespèrent que les grands médias portent si peu d’intérêt à la science et à la science-fiction… Pour eux, ce sont pourtant deux moteurs fondamentaux. L’un guide notre progrès, l’autre nos espoirs tout en nous mettant en garde. A force d’échanger sur ces sujets devant quelques pintes, ils se sont décidés à vous inviter à leur table afin de partager avec vous sur des sujets prospectifs à l’aune de ce que la science-fiction peut nous enseigner. Durée des épisodes : 10 minutes.
 - [C'est plus que de la SF](https://podcast.ausha.co/c-est-plus-que-de-la-sf)
 
 # Sciences humaines et sociales
