@@ -23,8 +23,9 @@
 > Méta de Choc explore la métacognition (réflexion sur notre pensée) sous toutes ses coutures. Dans chaque émission, Elisabeth Feytit reçoit un.e invité.e pour évoquer des thèmes comme la manipulation mentale, la sexualité, les croyances, les biais cognitifs, l’ésotérisme, le travail, l’astrologie, les différences homme/femme, le développement personnel, les ovnis, la photographie, la mémoire, les théories du complot, les perceptions, le féminisme, les pseudo-médecines, l’éducation, les dérives sectaires, etc. Tout cela avec une personne comme vous et moi qui revient de manière métacognitive sur son parcours personnel, ou bien avec un.e spécialiste des neurosciences, de la psychologie, de la biologie, de la sociologie, du marketing, de l’histoire, de la pédagogie, de la philosophie ou même… de la métacognition. Durée des épisodes : 1h.
 - [Savants sachant chercher](http://scienceinfuse.cool/)
 > Podcast de vulgarisation scientifique : entretien avec un acteur de la science dans son labo ! Une notion scientifique venant de domaines très différents par épisode. Le podcast est préparé, réalisé et produit par Science infuse. Science infuse c'est Laure, docteure en physique appliqué aux neurosciences, et Adrien ingénieur en électronique numérique. C'est ouvert à tous, pas besoin d'avoir de connaissance particulières ! Durée des épisodes : 30 à 45 minutes.
-- [Sème ta science](https://www.semetascience.org/2019/12/04/bienvenue-au-podcast-seme-ta-science/)
-
+- [Sème ta science](https://www.semetascience.org/les-podcasts/)
+> Une série de podcasts sur les pratiques de la médiation scientifique et la science dans la culture. Durée des épisodes : 3 à 30 minutes. 
+ 
 ## Astronomie et espace
 
 - [Le modèle standard](http://lemodelestandard.fr/)
@@ -43,10 +44,11 @@
 ## Philosophie
 
 - [Scepticisme scientifique](https://www.scepticisme-scientifique.com/)
+> Un balado consacré à la zététique. Durée des épisodes : 20 minutes à 1h30.
 - [Afrotopiques](https://soundcloud.com/user-482486519)
 > Le podcast de Génération Afrotopia qui s'approprie les grandes questions contemporaines, pour les penser depuis les Suds en général, et les mondes africains en particulier. Cultures, écologie, épistémologie, philosophie, économie, politique... Un moment d'oralité pour poser notre attention sur les enjeux civilisationnels de notre époque, explorer les voies - et entendre les voix - en dissonance avec le discours dominant. Entretiens avec des intellectuels, chercheurs, militants, artistes, entrepreneurs citoyens.  Durée des épisodes : entre 30 minutes et 1h. 
 - [Axiome](https://player.fm/series/axiome)
-
+> Axiome est un Podcast à l'interface entre les maths et la philo, présenté par Thibaut Giraud (Monsieur Phi) et Lê Nguyên Hoang (Science4All). Durée des épisodes : 20 minutes à 3h45.
 
 ## Voyage
 
@@ -119,6 +121,7 @@
 ## Politique 
 
 - [Convergences](https://www.youtube.com/channel/UCkMF_DDKLtqlmfo2rZhIJJg/videos)
+> Convergences est une chaîne collective qui vise à réunir différentes disciplines, différentes personnes, pour réaliser une critique sociale et politique. Durée des épisodes : 30 minutes à 1h30.
 
 ## Vie académique
 
