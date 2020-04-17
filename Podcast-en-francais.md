@@ -90,7 +90,6 @@
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
 > Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
 
-
 ## Informatique
 
 - [Vie artificielle](http://vie-artificielle.com/)
@@ -116,7 +115,10 @@
 ## Musique
 
 - [Phaune Radio](https://phauneradio.com/)
+> PHAUNE RADIO est une bestiole aussi curieuse qu’indomptable qui émet des sons étranges 24h/24 sur le web : paysages sonores du monde entier, musiques aventureuses, rencontres animales, archives rescapées du futur, jeux pour les oreilles….
 - [La planète bleue](https://laplanetebleue.com/emissions)
+> * La Planète Bleue est à la radio ce qu'une soucoupe volante est aux embouteillages: un autre monde, une autre dimension. Une bulle hors du temps, un courant d'air sans poussière, pour découvrir en avant-première la musique de demain 
+> * Attention cependant aux quelques dérives complotistes et pseudo-scientifiques de l'animateur
 
 ## Politique 
 
