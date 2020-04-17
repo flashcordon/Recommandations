@@ -36,7 +36,9 @@
 - [Ciel et Espace](https://player.fm/series/ciel-espace)
 > A la fois ludique et original avec ses contenus audios présentés par les plus grands spécialistes français, Ciel & Espace radio vous propose de découvrir et d'approfondir vos connaissances sur le ciel, la Terre et l'Univers. Durée des épisodes : 20 à 35 minutes.
 - [L'espace en tête](https://www.europe1.fr/emissions/lespace-en-tete)
+> L'espace en tête est une chronique de l'émission Europe matin animée par Jean-Yves le Gall sur Europe 1. Durée des épisodes : 3 minutes.
 - [La folle histoire de l'univers](https://podcasts.apple.com/fr/podcast/la-folle-histoire-de-lunivers/id564587024)
+> Podcast d'une passionnée des sciences de l'Univers, présenté par Florence Porcel. Durée des épisodes : 10 à 55 minutes.
 
 ## Philosophie
 
