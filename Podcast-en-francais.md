@@ -57,7 +57,9 @@
 - [Le nid de pie](https://leniddepie.lepodcast.fr/)
 > Un podcast sur le comportement animal. Chroniques, interviews , conseils lectures et autres informations animales, présenté par Agatha Macpie, éthologue, spécialiste du comportement animal. Durée des épisodes : 45 minutes. En français.
 - [Sur les épaules de Darwin](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin)
+> Un voyage avec ses escales dans la recherche, la culture et la vie sociale, accompagné par des textes et voix d’écrivains, de scientifiques et de poètes. Animé par Jean-Claude Ameisen. Durée des épisodes : 55 minutes.
 - [Vie artificielle](http://vie-artificielle.com/)
+> Podcast de Xil'Cast qui explore la nature du vivant. Durée des épisodes : 15 à 45 minutes.
 - [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
 > Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
 - [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
@@ -68,6 +70,7 @@
 - [Podcast de Nadège Joly](https://soundcloud.com/nad-ge-joly/sets/podcast-crises)
 > Un podcast de conversations avec des chercheurs sur les questions liées à l'environnement et à la biodiversité. Durée des épisodes : 30 minutes. En français. 
 - [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
+> Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
 - [Présages](https://www.presages.fr/)
 > Présages, des idées pour nourrir l’esprit et remettre radicalement en question l’état de notre monde. Durée des épisodes : 15 minutes à 1h.
 - [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
