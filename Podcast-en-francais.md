@@ -51,6 +51,9 @@
 ## Voyage
 
 - [La Bougeotte](http://www.radio-en-ligne.fr/podcasts/la-bougeotte-laura-fernandez-rodriguez-daisy-lorenzi-et-marine-perin-1289961373)
+> La Bougeotte, c'est le podcast qui s'adresse à toutes les femmes qui voyagent : que ce soit solo, entre ami-e-s, sur un coup de tête ou préparé depuis des mois. Nous allons à leur rencontre pour qu'elles partagent avec vous ce que le voyage leur a enseigné. Des conseils, des retours d'expériences et surtout beaucoup d'inspiration. Animé par Marine Périn. Durée des épisodes : 30 minutes.
+- [À la rencontre des peuples des mers](https://podcast.ausha.co/peuples-des-mers)
+> Le célèbre navigateur Marc Thiercelin nous emmène dans un voyage exceptionnel à la découverte des peuples des mers. Pendant trois ans, il a sillonné la planète pour partager avec eux ses connaissances de marin et apprendre de leurs différences. Grâce à son approche, bienveillante et curieuse, il nous fait découvrir des peuples de marins pour qui la navigation est un trait d'union dans leur passion commune pour la mer. Peuples des mers est une série documentaire produite pour Arte par Découpages sur une idée originale de Stéphane Correa et Ludovic Fossard. Durée des épisodes : 35 minutes.
 
 ## Biologie
 
