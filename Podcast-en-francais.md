@@ -7,11 +7,12 @@
 - [Le labo des savoirs](https://labodessavoirs.fr/)
 - [Oratio](https://shows.pippa.io/oratio)
 > Oratio est un podcast National Geographic. Tous les quinze jours, Oratio vous emmène à la rencontre de scientifiques, d'explorateurs, d'activistes et de chercheurs qui partageront avec vous leur passion et leur engagement. Durée des épisodes : 30 minutes. 
-- [Le temps d'un bivouac](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
+- [Le temps d'un bivouac](https://podcloud.fr/podcast/le-temps-dun-bivouac)
+> Des profondeurs abyssales aux conditions hostiles de l'espace, du froid extrême des pôles à la moiteur des forêts tropicales en passant par l'immensité des déserts, des hommes et des femmes partent explorer des territoires restés vierges. Présenté par Daniel Fiévet. Durée des épisodes : 55 minutes.
 - [Les couilles sur la table](https://www.binge.audio/category/les-couilles-sur-la-table/)
 > Un jeudi sur deux, Victoire Tuaillon parle en profondeur d’un aspect des masculinités contemporaines avec un·e invité·e. Parce qu’on ne naît pas homme, on le devient. Durée des épisodes : 30 minutes à 1h. 
 - [Sismique](http://podcast.sismique.fr/)
-- [La tête au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
+> Sismique est un podcast indépendant pour ceux qui veulent se donner le temps de comprendre les enjeux d'un monde en pleine mutation : crise écologique, accélération technologique, renversements géopolitiques, culturels et économiques... Des interviews d'experts, de penseurs et d'acteurs d'un monde en mouvement pour comprendre ce que demain nous prépare... et s'y préparer. Durée des épisodes : "0 minutes à 1h15.
 - [Collège de France](https://www.college-de-france.fr/site/listes-infos/Podcast.htm)
 - [Trensistor](https://www.trensistor.fr/)
 - [Version Originale](https://soundcloud.com/madeinloriginale)
@@ -51,6 +52,8 @@
 - [Vie artificielle](http://vie-artificielle.com/)
 - [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
 > Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
+- [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
+> Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
 
 ## Environnement
 
@@ -61,6 +64,8 @@
 > Présages, des idées pour nourrir l’esprit et remettre radicalement en question l’état de notre monde. Durée des épisodes : 15 minutes à 1h.
 - [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
 > Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
+- [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
+> Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
 
 ## Neurosciences
 
