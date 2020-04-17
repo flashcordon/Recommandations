@@ -14,12 +14,15 @@
 - [Sismique](http://podcast.sismique.fr/)
 > Sismique est un podcast indépendant pour ceux qui veulent se donner le temps de comprendre les enjeux d'un monde en pleine mutation : crise écologique, accélération technologique, renversements géopolitiques, culturels et économiques... Des interviews d'experts, de penseurs et d'acteurs d'un monde en mouvement pour comprendre ce que demain nous prépare... et s'y préparer. Durée des épisodes : "0 minutes à 1h15.
 - [Collège de France](https://www.college-de-france.fr/site/listes-infos/Podcast.htm)
+> Le Collège de France met à votre disposition différents flux, organisés selon les grands domaines scientifiques composés par les Chaires du Collège de France. Durée des épisodes : 1h.
 - [Trensistor](https://www.trensistor.fr/)
+> Trensistor Webradio, la webradio des étudiants de l'Ecole Normale Supérieure de Lyon. Actu locale et internationale, littérature, science, histoire, musique et autres goneries ... Durée des épisodes : 2 à 5 minutes.
 - [Version Originale](https://soundcloud.com/madeinloriginale)
 > La Nuit Originale, Il Faut Qu'on Parle, Qui Sont Ces Gens, mais aussi La Grande Aventure De La Raclette, Le PoêleCast, L'Univers Méconnu de Louis XI et Comment Devenir Promoteur Immobilier En Trois Etapes Faciles. Certains podcasts sont en binaural. Vous pouvez les écouter au casque ou au lit. Par Thomas Hercouët, un breton. Durée des épisodes : 20 minutes à 2h.
 - [Méta de Choc](https://www.metadechoc.fr/podcast)
 > Méta de Choc explore la métacognition (réflexion sur notre pensée) sous toutes ses coutures. Dans chaque émission, Elisabeth Feytit reçoit un.e invité.e pour évoquer des thèmes comme la manipulation mentale, la sexualité, les croyances, les biais cognitifs, l’ésotérisme, le travail, l’astrologie, les différences homme/femme, le développement personnel, les ovnis, la photographie, la mémoire, les théories du complot, les perceptions, le féminisme, les pseudo-médecines, l’éducation, les dérives sectaires, etc. Tout cela avec une personne comme vous et moi qui revient de manière métacognitive sur son parcours personnel, ou bien avec un.e spécialiste des neurosciences, de la psychologie, de la biologie, de la sociologie, du marketing, de l’histoire, de la pédagogie, de la philosophie ou même… de la métacognition. Durée des épisodes : 1h.
 - [Savants sachant chercher](http://scienceinfuse.cool/)
+> Podcast de vulgarisation scientifique : entretien avec un acteur de la science dans son labo ! Une notion scientifique venant de domaines très différents par épisode. Le podcast est préparé, réalisé et produit par Science infuse. Science infuse c'est Laure, docteure en physique appliqué aux neurosciences, et Adrien ingénieur en électronique numérique. C'est ouvert à tous, pas besoin d'avoir de connaissance particulières ! Durée des épisodes : 30 à 45 minutes.
 
 ## Astronomie et espace
 
