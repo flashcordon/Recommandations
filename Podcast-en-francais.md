@@ -31,7 +31,9 @@
 - [Dans la Lune](http://dans-la-lune.fr/category/podcast/)
 > Podcast sur l'astronomie et le spatial. En français.
 - [Ca se passe là-haut](http://www.ca-se-passe-la-haut.fr/)
+> Astronomie, astrophysique, cosmologie, astroparticules... Par Eric Simon. Durée des épisodes : 5 à 10 minutes.
 - [Ciel et Espace](https://player.fm/series/ciel-espace)
+> A la fois ludique et original avec ses contenus audios présentés par les plus grands spécialistes français, Ciel & Espace radio vous propose de découvrir et d'approfondir vos connaissances sur le ciel, la Terre et l'Univers. Durée des épisodes : 20 à 35 minutes.
 - [L'espace en tête](https://www.europe1.fr/emissions/lespace-en-tete)
 - [La folle histoire de l'univers](https://podcasts.apple.com/fr/podcast/la-folle-histoire-de-lunivers/id564587024)
 
