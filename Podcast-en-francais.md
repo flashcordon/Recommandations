@@ -5,6 +5,7 @@
 - [Podcast science](https://www.podcastscience.fm/)
 > Podcast de vulgarisation sur tous les sujets. Un épisode par semaine depuis 2010. Durée des épisodes : entre 1h et 2h30.
 - [Le labo des savoirs](https://labodessavoirs.fr/)
+> Le Labo des savoirs décrypte avec les chercheurs les questions d'actualité, analyse les enjeux d'aujourd'hui et de demain. Des sciences exactes aux sciences humaines en passant par les sciences économiques et sociales, tous les champs de la connaissances sont passés au crible. Durée des épisodes : 1h.
 - [Oratio](https://shows.pippa.io/oratio)
 > Oratio est un podcast National Geographic. Tous les quinze jours, Oratio vous emmène à la rencontre de scientifiques, d'explorateurs, d'activistes et de chercheurs qui partageront avec vous leur passion et leur engagement. Durée des épisodes : 30 minutes. 
 - [Le temps d'un bivouac](https://podcloud.fr/podcast/le-temps-dun-bivouac)
