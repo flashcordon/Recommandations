@@ -75,6 +75,7 @@
 ## Neurosciences
 
 - [La tête dans le cerveau](https://podcloud.fr/podcast/la-tete-dans-le-cerveau)
+> La Tête Dans Le Cerveau est une chronique hebdomadaire qui à travers l'actualité de la recherche scientifique, des études de cas surprenantes et des histoires fascinantes invite à découvrir les mystères et les secrets du cerveau tout en ouvrant à la réflexion sur la science et la recherche. Les chroniques sont écrites et animées par Christophe Rodo, jeune chercheur en Neurosciences. Durée des épisodes : 10 minutes.
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
 > Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
 
