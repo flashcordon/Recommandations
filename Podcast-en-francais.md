@@ -23,6 +23,7 @@
 > Méta de Choc explore la métacognition (réflexion sur notre pensée) sous toutes ses coutures. Dans chaque émission, Elisabeth Feytit reçoit un.e invité.e pour évoquer des thèmes comme la manipulation mentale, la sexualité, les croyances, les biais cognitifs, l’ésotérisme, le travail, l’astrologie, les différences homme/femme, le développement personnel, les ovnis, la photographie, la mémoire, les théories du complot, les perceptions, le féminisme, les pseudo-médecines, l’éducation, les dérives sectaires, etc. Tout cela avec une personne comme vous et moi qui revient de manière métacognitive sur son parcours personnel, ou bien avec un.e spécialiste des neurosciences, de la psychologie, de la biologie, de la sociologie, du marketing, de l’histoire, de la pédagogie, de la philosophie ou même… de la métacognition. Durée des épisodes : 1h.
 - [Savants sachant chercher](http://scienceinfuse.cool/)
 > Podcast de vulgarisation scientifique : entretien avec un acteur de la science dans son labo ! Une notion scientifique venant de domaines très différents par épisode. Le podcast est préparé, réalisé et produit par Science infuse. Science infuse c'est Laure, docteure en physique appliqué aux neurosciences, et Adrien ingénieur en électronique numérique. C'est ouvert à tous, pas besoin d'avoir de connaissance particulières ! Durée des épisodes : 30 à 45 minutes.
+- [Sème ta science](https://www.semetascience.org/2019/12/04/bienvenue-au-podcast-seme-ta-science/)
 
 ## Astronomie et espace
 
