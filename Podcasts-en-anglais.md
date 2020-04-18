@@ -2,7 +2,6 @@
 
 ## Miscellaneous
 
-
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 - [Complexity Podcast](https://santafe.edu/culture/podcast)
@@ -103,6 +102,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [America adapts](https://www.americaadapts.org/)
 - [Hakai Magazine Audio Edition](https://www.hakaimagazine.com/audio-edition/)
 - [Climate History Podcast](https://www.historicalclimatology.com/interviews)
+> Climate History features interviews and discussions about the history of climate change. Conversations consider what the past can tell us about our present and future. It is hosted by Dr. Dagomar Degroot, associate professor of environmental history at Georgetown University, and Emma Moesswilde, a PhD student in environmental and climate history at Georgetown. Durée des épisodes : 30 minutes à 1h.
 
 ## Neurosciences
 
