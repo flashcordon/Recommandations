@@ -1,7 +1,7 @@
 ## Varié
 
 - [La méthode scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique)
-> De l'astrophysique à la paléontologie, de la médecine à l'épistémologie, La Méthode Scientifique enfile sa blouse, remonte ses manches et vous propose chaque jour une heure de savoir autour des sciences, toutes les sciences, et sur les problématiques éthiques, politiques, économiques et sociales qui font l'actualité de la recherche. Avec du lundi au vendredi des grandes thématiques pour séquencer la semaine : Humain/s, Planète/s, Futur/s, Histoire/s et une table ronde consacrée à l'actualité scientifique et au dialogue entre culture et fiction. Durée des épisodes : 1h. En français.
+> De l'astrophysique à la paléontologie, de la médecine à l'épistémologie, La Méthode Scientifique enfile sa blouse, remonte ses manches et vous propose chaque jour une heure de savoir autour des sciences, toutes les sciences, et sur les problématiques éthiques, politiques, économiques et sociales qui font l'actualité de la recherche. Avec du lundi au vendredi des grandes thématiques pour séquencer la semaine : Humain/s, Planète/s, Futur/s, Histoire/s et une table ronde consacrée à l'actualité scientifique et au dialogue entre culture et fiction. Durée des épisodes : 1h.
 - [Du vent dans les synapses](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
 > Un magazine pour arpenter l’univers de la science, explorer la complexité du monde et s’émerveiller devant son infinie richesse, présenté par Daniel Fiévet. Durée des épisodes : 55 minutes.
 - [Podcast science](https://www.podcastscience.fm/)
@@ -34,7 +34,7 @@
 - [Le modèle standard](http://lemodelestandard.fr/)
 > Un podcast qui mèle musique Jazz et astronomie. Durée des épisodes : 1h. 
 - [Dans la Lune](http://dans-la-lune.fr/category/podcast/)
-> Podcast sur l'astronomie et le spatial. En français.
+> Podcast sur l'astronomie et le spatial. 
 - [Ca se passe là-haut](http://www.ca-se-passe-la-haut.fr/)
 > Astronomie, astrophysique, cosmologie, astroparticules... Par Eric Simon. Durée des épisodes : 5 à 10 minutes.
 - [Ciel et Espace](https://player.fm/series/ciel-espace)
@@ -63,26 +63,26 @@
 ## Biologie
 
 - [Le nid de pie](https://leniddepie.lepodcast.fr/)
-> Un podcast sur le comportement animal. Chroniques, interviews , conseils lectures et autres informations animales, présenté par Agatha Macpie, éthologue, spécialiste du comportement animal. Durée des épisodes : 45 minutes. En français.
+> Un podcast sur le comportement animal. Chroniques, interviews , conseils lectures et autres informations animales, présenté par Agatha Macpie, éthologue, spécialiste du comportement animal. Durée des épisodes : 45 minutes.
 - [Sur les épaules de Darwin](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin)
 > Un voyage avec ses escales dans la recherche, la culture et la vie sociale, accompagné par des textes et voix d’écrivains, de scientifiques et de poètes. Animé par Jean-Claude Ameisen. Durée des épisodes : 55 minutes.
 - [Vie artificielle](http://vie-artificielle.com/)
 > Podcast de Xil'Cast qui explore la nature du vivant. Durée des épisodes : 15 à 45 minutes.
 - [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
-> Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
+> Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. 
 - [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
 > Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
 
 ## Environnement
 
 - [Podcast de Nadège Joly](https://soundcloud.com/nad-ge-joly/sets/podcast-crises)
-> Un podcast de conversations avec des chercheurs sur les questions liées à l'environnement et à la biodiversité. Durée des épisodes : 30 minutes. En français. 
+> Un podcast de conversations avec des chercheurs sur les questions liées à l'environnement et à la biodiversité. Durée des épisodes : 30 minutes.
 - [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
 > Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
 - [Présages](https://www.presages.fr/)
 > Présages, des idées pour nourrir l’esprit et remettre radicalement en question l’état de notre monde. Durée des épisodes : 15 minutes à 1h.
 - [Pour que la nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
-> Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. En français.
+> Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes.
 - [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
 > Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
 
@@ -91,7 +91,7 @@
 - [La tête dans le cerveau](https://podcloud.fr/podcast/la-tete-dans-le-cerveau)
 > La Tête Dans Le Cerveau est une chronique hebdomadaire qui à travers l'actualité de la recherche scientifique, des études de cas surprenantes et des histoires fascinantes invite à découvrir les mystères et les secrets du cerveau tout en ouvrant à la réflexion sur la science et la recherche. Les chroniques sont écrites et animées par Christophe Rodo, jeune chercheur en Neurosciences. Durée des épisodes : 10 minutes.
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
-> Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
+> Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. 
 
 ## Informatique
 
@@ -108,11 +108,11 @@
 # Sciences humaines et sociales
 
 - [Sociodyssée](https://soundcloud.com/socio-dyssee/sociodyssee-1-lencastrement)
-> Podcast de sociologie. Durée des épisodes : 20 minutes. En français.
+> Podcast de sociologie. Durée des épisodes : 20 minutes. 
 - [Milgram de savoir](https://cescup.ulb.be/milgram-de-savoirs-podcast/)
-> Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes. En français.
+> Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes.
 - [Mondes sociaux](https://sms.hypotheses.org/category/podcasts)
-> Podcast du Magazine des sciences humaines et sociales aux sujets variés. Durée des épisodes : 1h à 1h30. En français.
+> Podcast du Magazine des sciences humaines et sociales aux sujets variés. Durée des épisodes : 1h à 1h30. 
 
 
 ## Musique
@@ -131,11 +131,11 @@
 ## Vie académique
 
 - [Bien dans ma thèse](https://open.spotify.com/show/4Fv7yBEUMvjq3rJw9aBItn?si=ON0KqCcETZe1s1V9NdB5WA)
-> Podcast sur la vie des doctorant(e)s. Durée des épisodes : 40 minutes. En français.
+> Podcast sur la vie des doctorant(e)s. Durée des épisodes : 40 minutes. 
 
 ## Mathématiques
 
 - [L'oreille mathématique](https://maison-des-maths.paris/podcasts/)
-> Podcast de l'Institut Henri Poincaré. Une conversation mensuelle avec des mathématiciennes et mathématiciens pour mettre en lumière le tempérament et les idées de celles et ceux qui font les mathématiques contemporaines. Durée des épisodes : 30 minutes. En français.
+> Podcast de l'Institut Henri Poincaré. Une conversation mensuelle avec des mathématiciennes et mathématiciens pour mettre en lumière le tempérament et les idées de celles et ceux qui font les mathématiques contemporaines. Durée des épisodes : 30 minutes.
 
 
