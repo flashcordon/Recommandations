@@ -5,7 +5,7 @@
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. 
 - [Complexity Podcast](https://santafe.edu/culture/podcast)
-> Podcast de l'institut Santa Fe, un institut de recherche sur les systèmes complexes. Conversations entre chercheurs sur des sujets liés aux systèmes complexes, des nuées d'oiseaux à l'origine de la vie. Durée des épisodes : entre 40 minutes et 1h. 
+> Far-reaching conversations with a worldwide network of scientists and mathematicians, philosophers and artists developing new frameworks to explain our universe's deepest mysteries. Join host Michael Garfield at the Santa Fe Institute each week to learn about your world and the people who have dedicated their lives to exploring its emergent order: their stories, research, and insights… Durée des épisodes : entre 40 minutes et 1h. 
 - [The 80,000 Hours Podcast with Rob Wiblin](https://80000hours.org/podcast/)
 > A show about the world's most pressing problems and how you can use your career to solve them. Durée des épisodes : 2 à 3h. 
 - [99% invisible](https://99percentinvisible.org/)
@@ -26,18 +26,18 @@
 > Deep in the back of your mind, you’ve always had the feeling that there’s something strange about reality. There is. Join
 Robert Lamb and Joe McCormick as they examine neurological quandaries, cosmic mysteries, evolutionary marvels and
 our transhuman future. Durée des épisodes : 45 minutes à 1h30.
-- [La méthode scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique)
-> De l'astrophysique à la paléontologie, de la médecine à l'épistémologie, La Méthode Scientifique enfile sa blouse, remonte ses manches et vous propose chaque jour une heure de savoir autour des sciences, toutes les sciences, et sur les problématiques éthiques, politiques, économiques et sociales qui font l'actualité de la recherche. Avec du lundi au vendredi des grandes thématiques pour séquencer la semaine : Humain/s, Planète/s, Futur/s, Histoire/s et une table ronde consacrée à l'actualité scientifique et au dialogue entre culture et fiction. Durée des épisodes : 1h. En français.
 - [Flash Forward](https://www.flashforwardpod.com/)
 > Flash Forward is a critically acclaimed podcast about the future. In each episode, host Rose Eveleth takes on a possible (or not so possible) future scenario — everything from the existence of artificial wombs, to what would happen if space pirates dragged a second moon to Earth. What would the warranty on a sex robot look like? How would diplomacy work if we couldn’t lie? Could there ever be a black market for fecal transplants? (Complicated, it wouldn’t, and yes, respectively, in case you’re curious.) By combining audio drama and deep reporting, Flash Forward gives listeners an original and unique window into the future, and just how likely different scenarios might be. Durée des épisodes : 30 minutes à 1h.
 - [Damn Interesting Podcast](https://www.damninteresting.com/podcast/)
 > Damn Interesting is a small, independent, award-winning, and award-losing project dedicated to the dissemination of fascinating-yet-obscure true stories from science, history, and psychology. Durée des épisodes : 10 minutes à 1h.
-- [This American Life](https://www.thisamericanlife.org/)- [This study shows](https://secure.wiley.com/this-study-shows-homepage?HootPostID=c1baec88-f139-4340-9cec-863643072bb1&Socialprofile=wileyinresearch&Socialnetwork=twitter&fbclid=IwAR319RRjd9rGLdzjrqNVG5XOVj0uXWgQYFwPsrkXWcB439F5JnpiYHfqR4I)
-> Un podcast sur la communication des sciences. Durée des épisodes : 30 minutes. En anglais.
+- [This American Life](https://www.thisamericanlife.org/)
+> This American Life is a weekly public radio show, heard by 2.2 million people on more than 500 stations. Another 2.5 million people download the weekly podcast. It is hosted by Ira Glass, produced in collaboration with Chicago Public Media, delivered to stations by PRX The Public Radio Exchange, and has won all of the major broadcasting awards. Durée des épisodes : 1h.
+- [This study shows](https://secure.wiley.com/this-study-shows-homepage?HootPostID=c1baec88-f139-4340-9cec-863643072bb1&Socialprofile=wileyinresearch&Socialnetwork=twitter&fbclid=IwAR319RRjd9rGLdzjrqNVG5XOVj0uXWgQYFwPsrkXWcB439F5JnpiYHfqR4I)
+> The only way for research to change the world is if the world knows and cares about it. In This Study Shows, a podcast from Wiley, we explore how to connect research with emotions and experiences and transform the way science is shared. Hosted by Danielle George and Mary-Ann Ochota, each of our six episodes asks the tough science communication questions: how? why? and so what? Durée des épisodes : 30 minutes.
 - [Scishow Tangents](https://www.wnycstudios.org/podcasts/scishow-tangents)
 > Introducing the lightly competitive knowledge showcase from the geniuses behind the YouTube series SciShow. Every Tuesday, join Hank Green, Ceri Riley, Stefan Chin, and Sam Schulz as they try to one-up and amaze each other with weird and funny scientific research... while not getting distracted. Durée des épisodes : 30 minutes.
 - [Principles of Complex systems](http://www.uvm.edu/pdodds/teaching/courses/2015-08UVM-300/episodes/)
-> Un cours sur les systèmes complexes, animé par Peter Sheridan Dodds. Durée des épisodes : 1h15.
+> Lectures about complex system by Peter Sheridan Dodds. Durée des épisodes : 1h15.
 - [Nautilus Magazine Audio Edition](http://nautil.us/audio)
 > Nautilus is a different kind of science magazine. We deliver big-picture science by reporting on a single monthly topic from multiple perspectives. Durée des épisodes : 35 minutes.
 - [The end of the world with Josh Clarke](https://www.theendwithjosh.com/)
@@ -102,7 +102,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## Philosophy
 
 - [Philosophy bites](https://philosophybites.com/)
-> Interviews de philosophes. Durée des épisodes : 20 minutes. En anglais. 
+> David Edmonds (Uehiro Centre, Oxford University) and Nigel Warburton (freelance philosopher/writer) interview top philosophers on a wide range of topics. Two books based on the series have been published by Oxford University Press. Durée des épisodes : 20 minutes. En anglais. 
 - [History of pholosophy without any gaps](https://historyofphilosophy.net/)
 > Peter Adamson, Professor of Philosophy at the LMU in Munich and at King's College London, takes listeners through the history of philosophy, "without any gaps". The series looks at the ideas, lives and historical context of the major philosophers as well as the lesser-known figures of the tradition. Durée des épisodes : 20 à 30 minutes.
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
