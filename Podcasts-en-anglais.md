@@ -145,10 +145,15 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## Fiction and writing
 
 - [Science and Futurism with Isaac Arthur](https://player.fm/series/science-futurism-with-isaac-arthur)
+> Podcast by Isaac Arthur. Durée des épisodes : 20 à 30 minutes.
 - [Harry Potter and the Methods of rationality](http://www.hpmorpodcast.com/)
+> An alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit. Durée des épisodes : 20 à 45 minutes.
 - [Imaginary worlds](https://www.imaginaryworldspodcast.org/)
+> Imaginary Worlds is a bi-weekly podcast about science fiction and other fantasy genres. Host Eric Molinsky talks with novelists, screenwriters, comic book artists, filmmakers, and game designers about their craft of creating fictional worlds. The show also looks at the fan experience, exploring what makes us suspend our disbelief, and what happens when that spell is broken. Fantasy worlds may be set in distant planets or parallel dimensions, but they are crafted here on Earth and on some level relate to our daily lives. Employing his years of experience in public radio, Eric brings a sophisticated, thoughtfully produced voice to the far-out and fantastical. Durée des épisodes : 30 minutes.
 - [Our opinions are correct](https://www.ouropinionsarecorrect.com/)
+> Explore the meaning of science fiction, and how it's relevant to real-life science and society. Your hosts are Annalee Newitz, a science journalist who writes science fiction, and Charlie Jane Anders, a science fiction writer who is obsessed with science. Every two weeks, we take deep dives into science fiction books, movies, television, and comics that will expand your mind -- and maybe change your life. Durée des épisodes : 35 à 50 minutes.
 - [Flash Forward](https://www.flashforwardpod.com/)
+> Flash Forward is a critically acclaimed podcast about the future. In each episode, host Rose Eveleth takes on a possible (or not so possible) future scenario — everything from the existence of artificial wombs, to what would happen if space pirates dragged a second moon to Earth. What would the warranty on a sex robot look like? How would diplomacy work if we couldn’t lie? Could there ever be a black market for fecal transplants? (Complicated, it wouldn’t, and yes, respectively, in case you’re curious.) By combining audio drama and deep reporting, Flash Forward gives listeners an original and unique window into the future, and just how likely different scenarios might be. Durée des épisodes : 30 minutes à 1h.
 
 ## Social sciences and Humanities
 
