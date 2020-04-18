@@ -136,11 +136,15 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## History
 
 - [The podcast history of our world](https://www.stitcher.com/podcast/the-podcast-history-of-our-world)
+> It's the history of our world from the Big Bang to the Modern Age! Well...eventually at least. Durée des épisodes : 15 à 45 minutes.
 - [The history of Byzantium](https://thehistoryofbyzantium.com/)
+> A podcast telling the story of the Roman (Byzantine) Empire from 476 AD to 1453. Durée des épisodes : 20 à 50 minutes.
 - [The hour of history podcast](https://www.hourofhistory.com/)
-> Podcast sur l'histoire. Durée des épisodes : 1h. En anglais.
+> The Hour of History Podcast is your world, any time, any place.  Durée des épisodes : 1h. En anglais.
 - [In our time](https://www.bbc.co.uk/programmes/articles/598SVYJ2smP8qJlpH29y7Vj/podcasts)
+> Melvyn Bragg and guests discuss the history of ideas. Durée des épisodes : 50 minutes.
 - [Climate History Podcast](https://www.historicalclimatology.com/interviews)
+> Climate History features interviews and discussions about the history of climate change. Conversations consider what the past can tell us about our present and future. It is hosted by Dr. Dagomar Degroot, associate professor of environmental history at Georgetown University, and Emma Moesswilde, a PhD student in environmental and climate history at Georgetown. Durée des épisodes : 30 minutes à 1h.
 
 ## Fiction and writing
 
