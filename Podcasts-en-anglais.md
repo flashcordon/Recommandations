@@ -83,9 +83,13 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## Physics
 
 - [The joy of x](https://www.stitcher.com/podcast/the-joy-of-x)
+> The acclaimed mathematician and author Steven Strogatz interviews some of the world’s leading scientists about their lives and work. Durée des épisodes : 45 minutes à 1h.
 - [Daniel and Jorge explain the universe](https://www.danielandjorge.com/)
+> A fun-filled discussion of the big, mind-blowing, unanswered questions about the Universe. In each episode, Daniel Whiteson (a Physicist who works at CERN) and Jorge Cham (a popular online cartoonist) discuss some of the simple but profound questions that people have been wondering about for thousands of years, explaining the science in a fun, shorts-wearing and jargon-free way. Durée des épisodes : 45 minutes à 1h.
 - [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
+> The greatest thinkers exploring the deepest questions. Your source for Cosmos, Consciousness, Meaning. Durée des épisodes : 27 minutes.
 - [Quanta Magazine](https://www.quantamagazine.org/tag/podcast)
+> Listen to Quanta Magazine's in-depth news stories about developments in mathematics, theoretical physics, theoretical computer science and the basic life sciences. Quanta, an editorially independent magazine published by the Simons Foundation, seeks to enhance public understanding of basic research. Durée des épisodes : 10 à 30 minutes.
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 
