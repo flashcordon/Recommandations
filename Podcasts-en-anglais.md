@@ -26,7 +26,6 @@
 > Deep in the back of your mind, you’ve always had the feeling that there’s something strange about reality. There is. Join
 Robert Lamb and Joe McCormick as they examine neurological quandaries, cosmic mysteries, evolutionary marvels and
 our transhuman future. Durée des épisodes : 45 minutes à 1h30.
-- [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
 - [La méthode scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique)
 > De l'astrophysique à la paléontologie, de la médecine à l'épistémologie, La Méthode Scientifique enfile sa blouse, remonte ses manches et vous propose chaque jour une heure de savoir autour des sciences, toutes les sciences, et sur les problématiques éthiques, politiques, économiques et sociales qui font l'actualité de la recherche. Avec du lundi au vendredi des grandes thématiques pour séquencer la semaine : Humain/s, Planète/s, Futur/s, Histoire/s et une table ronde consacrée à l'actualité scientifique et au dialogue entre culture et fiction. Durée des épisodes : 1h. En français.
 - [Flash Forward](https://www.flashforwardpod.com/)
@@ -120,6 +119,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > A new digital magazine about nature, culture, ideas and experience. Durée des épisodes : 10 à 30 minutes.
 - [Very Bad Wizards](https://verybadwizards.fireside.fm/)
 > Very Bad Wizards is a podcast featuring a philosopher (Tamler Sommers) and a psychologist (David Pizarro), who share a love for ethics, pop culture, and cognitive science, and who have a marked inability to distinguish sacred from profane. Each podcast includes discussions of moral philosophy, recent work on moral psychology and neuroscience, and the overlap between the two. Durée des épisodes : entre 1h et 2h. En anglais.
+- [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
+> The greatest thinkers exploring the deepest questions. Your source for Cosmos, Consciousness, Meaning. Durée des épisodes : 27 minutes.
 
 ## Biology
 
@@ -187,6 +188,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Sapiens](https://www.sapiens.org/sapiens-podcast/)
 > SAPIENS podcast hosts Jen Shannon, Esteban Gómez, and Chip Colwell speak with anthropologists from around the globe to help us uncover what makes us human. Durée des épisodes : 20 minutes à 1h. En anglais.
 - [Anthropology - University of Oxford](https://podcasts.ox.ac.uk/series/anthropology)
+> Podcasts from the School of Anthropology and Museum Ethnography. The School is renowned for its contributions to anthropological theory, its commitment to long-term ethnographic fieldwork, and its association with the Pitt Rivers Museum and the anthropology of visual and material culture. Home to over forty academic staff, over a hundred doctoral students, twelve Master’s programmes, and two undergraduate degrees (Human Sciences; Archaeology and Anthropology), Oxford anthropology is one of the world’s largest and most vibrant centres for teaching and research in the discipline. Durée des épisodes : 40 minutes à 1h20.
 - [The Human Zoo](https://www.bbc.co.uk/programmes/b036tbly)
 > The Human Zoo explores the foibles, quirks and behaviour of that most fascinating of species - us. On BBC Radio 4. Durée des épisodes : 30 minutes.
 - [Origin stories](https://leakeyfoundation.org/originstories/)
