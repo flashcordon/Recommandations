@@ -18,8 +18,9 @@
 - [The infinite Monkey cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
 > Witty, irreverent look at the world through scientists' eyes. With Brian Cox and Robin Ince. On BBC Radio 4. Durée des épisodes : 45 minutes à 1h.
 - [Nature podcast](https://www.nature.com/nature/articles?type=nature-podcast)
-> Each week Nature publishes a free audio show. It's hosted by Kerri Smith, with reporters Noah Baker, Ewen Callaway, Thea Cunningham and Charlotte Stoddart. Every show features highlighted content from the week's edition of Nature including interviews with the people behind the science, and in-depth commentary and analysis from journalists covering science around the world. Durée des épisodes : 30 minutes. En anglais.
+> Each week Nature publishes a free audio show. It's hosted by Kerri Smith, with reporters Noah Baker, Ewen Callaway, Thea Cunningham and Charlotte Stoddart. Every show features highlighted content from the week's edition of Nature including interviews with the people behind the science, and in-depth commentary and analysis from journalists covering science around the world. Durée des épisodes : 30 minutes.
 - [Reasonably sound](http://reasonablysound.com/)
+> RS is a podcast about sound. It’s made by Mike Rugnetta. Durée des épisodes : 7 minutes à 1h.
 - [Seminars about long term thinking](http://longnow.org/seminars/)
 - [Stuff to blow your mind](https://www.stufftoblowyourmind.com/podcasts)
 - [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
