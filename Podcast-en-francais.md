@@ -1,5 +1,7 @@
 ## Varié
 
+- [La méthode scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique)
+> De l'astrophysique à la paléontologie, de la médecine à l'épistémologie, La Méthode Scientifique enfile sa blouse, remonte ses manches et vous propose chaque jour une heure de savoir autour des sciences, toutes les sciences, et sur les problématiques éthiques, politiques, économiques et sociales qui font l'actualité de la recherche. Avec du lundi au vendredi des grandes thématiques pour séquencer la semaine : Humain/s, Planète/s, Futur/s, Histoire/s et une table ronde consacrée à l'actualité scientifique et au dialogue entre culture et fiction. Durée des épisodes : 1h. En français.
 - [Du vent dans les synapses](https://www.franceinter.fr/emissions/le-temps-d-un-bivouac)
 > Un magazine pour arpenter l’univers de la science, explorer la complexité du monde et s’émerveiller devant son infinie richesse, présenté par Daniel Fiévet. Durée des épisodes : 55 minutes.
 - [Podcast science](https://www.podcastscience.fm/)
