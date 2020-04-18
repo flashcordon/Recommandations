@@ -127,11 +127,13 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## Neurosciences
 
 - [Invisibilia](https://www.npr.org/programs/invisibilia)
+> Unseeable forces control human behavior and shape our ideas, beliefs, and assumptions. Invisibilia—Latin for invisible things—fuses narrative storytelling with science that will make you see your own life differently. Durée des épisodes : 10 minutes à 1h.
 - [You are not so smart](https://youarenotsosmart.com/podcast/)
+> You Are Not So Smart is a show about psychology that celebrates science and self delusion. In each episode, we explore what we've learned so far about reasoning, biases, judgments, and decision-making. Durée des épisodes : 30 minutes à 2h.
 - [Brain inspired](https://braininspired.co/)
-> Neuroscience and AI work better together. AI leverages current brain research to inform its work. Likewise, neuroscientists use AI tools to learn more about the workings of the brain. Durée des épisodes : 1h30. En anglais.
+> Neuroscience and AI work better together. AI leverages current brain research to inform its work. Likewise, neuroscientists use AI tools to learn more about the workings of the brain. Durée des épisodes : 1h30. 
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
-> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
+> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h.
 
 ## History
 
