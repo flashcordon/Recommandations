@@ -47,12 +47,16 @@ first. Join Josh Clark of Stuff You Should Know for a 10-episode deep dive that 
 dangers we have never encountered before lurking just ahead. Durée des épisodes : entre 40 minutes et 1h10. En anglais.
 - [Palaeo After Dark](https://www.palaeoafterdark.com/)
 > A group of fresh-faced scientists have biweekly informal discussions about evolutionary biology and palaeontology... over beer. Durée des épisodes : 1 à 2h.
-- [Global Development - The Guardian](https://www.theguardian.com/global-development/global-development+content/podcast)
+- [Small changes](https://www.theguardian.com/global-development/global-development+content/podcast)
+> Small Changes is a podcast series of one-on-one interviews with people who've seen a problem in the world and set out to change it – often in small and unexpected ways. Durée des épisodes : 10 minutes à 1h.
 - [Oh no Ross and Carrie](http://ohnopodcast.com/)
+> the show where we don’t just report on fringe science, spirituality, and claims of the paranormal, but take part ourselves. Follow us as we join religions, undergo alternative treatments, seek out the paranormal, and always find the humor in life’s biggest mysteries. We show up - so you don’t have to. Every month we share a new investigation, along with occasional bonus interviews and updates. Durée des épisodes : 1h à 2h30.
 - [Center for Global Development Podcast](https://www.cgdev.org/cgd-podcast)
+> International development experts share their ideas on how wealthy countries can promote prosperity in developing countries. Durée des épisodes : 15 à 50 minutes.
 - [The Future of Life](https://futureoflife.org/the-future-of-life-podcast/)
 > The Future of Life Institute's podcast series features FLI’s Ariel Conn in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. Durée des épisodes : 30 minutes à 2h. En anglais.
 - [The Worldshapers](https://theworldshapers.com/)
+> All writers, when they set pen to paper or post pixel to page, are shaping a world: their own private world, created from their own thoughts and imagination, joys and sorrows, hopes and heartbreaks, triumphs and fears. It may mimic the real world, or it may be as different from the real world as, say, the world of Middle Earth is from the world of Blade Runner, but it is still a shaped world–a sub-creation, to use J.R.R. Tolkien’s formulation. It is not a real world, it does not have the depth or complexity of a real world, it is but an illusion…and yet, these fictional worlds, these illusions, though shaped by humans, not gods, can sometimes touch our minds and expand our spirits in ways nothing else can. Durée des épisodes : 1h à 1h30.
 - [Futuremakers](https://podcasts.ox.ac.uk/series/futuremakers)
 > Oxford academics debate key issues for the future of society. Series two - Conversations on how we respond to a changing climate, and how humanity will cope and thrive in an uncertain future, with some of the world’s leading thinkers. Season One was all about Artificial Intelligence... Durée des épisodes : 1h. En anglais.
 - [Armchair Explorer](https://www.armchair-explorer.com/)
