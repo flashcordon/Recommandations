@@ -71,12 +71,19 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## Space and astronomy
 
 - [Big Picture Science](http://radio.seti.org/)
+> The surprising connections in science and technology that give you the Big Picture. Astronomer Seth Shostak and science journalist Molly Bentley are joined each week by leading researchers, techies, and journalists to provide a smart and humorous take on science. Our regular "Skeptic Check" episodes cast a critical eye on pseudoscience. Durée des épisodes : 50 minutes.
 - [Star Talk Radio](https://www.startalkradio.net/)
+> Science, pop culture and comedy collide on StarTalk Radio! Astrophysicist and Hayden Planetarium director Neil deGrasse Tyson, his comic co-hosts, guest celebrities and scientists discuss astronomy, physics, and everything else about life in the universe. Keep Looking Up! Durée des épisodes : 30 à 50 minutes.
 - [The space show](https://www.thespaceshow.com/)
+> The Space Show focuses on timely and important issues influencing the development of outer-space commerce, space tourism,space exploration and space development. The Space Show is committed to facilitating our becoming a space-faring nation and society with a growing and self-sustaining space-faring economy. The Space Show also focuses on other related subjects of interest to us all. Durée des épisodes : 10 minutes à 2h.
 - [Planetary Radio](http://www.planetary.org/multimedia/planetary-radio/)
+> Planetary Radio brings you the human adventure across our solar system and beyond. We visit each week with the scientists, engineers, leaders, advocates and astronauts who are taking us across the final frontier. Regular features raise your space IQ while they put a smile on your face. Join host Mat Kaplan and Planetary Society colleagues including Bill Nye the Science Guy, Bruce Betts, and Emily Lakdawalla as they dive deep into the latest space news. The monthly Space Policy Edition takes you inside the DC beltway where the future of the US space program hangs in the balance. Durée des épisodes : 45 minutes à 1h10.
 - [Science and Futurism with Isaac Arthur](https://player.fm/series/science-futurism-with-isaac-arthur)
+> Podcast by Isaac Arthur. Durée des épisodes : 20 à 30 minutes.
 - [Daniel and Jorge explain the universe](https://www.danielandjorge.com/)
+> A fun-filled discussion of the big, mind-blowing, unanswered questions about the Universe. In each episode, Daniel Whiteson (a Physicist who works at CERN) and Jorge Cham (a popular online cartoonist) discuss some of the simple but profound questions that people have been wondering about for thousands of years, explaining the science in a fun, shorts-wearing and jargon-free way. Durée des épisodes : 45 minutes à 1h.
 - [Houston we have a podcast](https://www.nasa.gov/johnson/HWHAP)
+> If you’re fascinated by the idea of humans traveling through space and curious about how that all works, you’ve come to the right place. This is the official podcast of the NASA Johnson Space Center in Houston, Texas. Durée des épisodes : 30 minutes à 1h.
 - [Exocast](http://www.exocast.org/)
 > Un podcast sur les dernières nouvelles de la science des exoplanètes. Durée des épisodes : 1h. En anglais. 
 
