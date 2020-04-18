@@ -3,17 +3,17 @@
 ## Miscellaneous
 
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
-> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
+> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. 
 - [Complexity Podcast](https://santafe.edu/culture/podcast)
-> Podcast de l'institut Santa Fe, un institut de recherche sur les systèmes complexes. Conversations entre chercheurs sur des sujets liés aux systèmes complexes, des nuées d'oiseaux à l'origine de la vie. Durée des épisodes : entre 40 minutes et 1h. En anglais.
+> Podcast de l'institut Santa Fe, un institut de recherche sur les systèmes complexes. Conversations entre chercheurs sur des sujets liés aux systèmes complexes, des nuées d'oiseaux à l'origine de la vie. Durée des épisodes : entre 40 minutes et 1h. 
 - [The 80,000 Hours Podcast with Rob Wiblin](https://80000hours.org/podcast/)
-> A show about the world's most pressing problems and how you can use your career to solve them. Durée des épisodes : 2 à 3h. En anglais.
+> A show about the world's most pressing problems and how you can use your career to solve them. Durée des épisodes : 2 à 3h. 
 - [99% invisible](https://99percentinvisible.org/)
-> 99% Invisible is about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world. Durée des épisodes : entre 20 minutes et 1h. En anglais.
+> 99% Invisible is about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world. Durée des épisodes : entre 20 minutes et 1h.
 - [The story collider](https://www.storycollider.org/)
-> Whether we wear a lab coat or haven't seen a test tube since grade school, science is shaping all of our lives. And that means we all have science stories to tell. Every year, we host dozens of live shows all over the country, featuring all kinds of storytellers - researchers, doctors, and engineers of course, but also patients, poets, comedians, cops, and more. Some of our stories are heartbreaking, others are hilarious, but they're all true and all very personal. Durée des épisodes : 15 à 30 minutes. En anglais.
+> Whether we wear a lab coat or haven't seen a test tube since grade school, science is shaping all of our lives. And that means we all have science stories to tell. Every year, we host dozens of live shows all over the country, featuring all kinds of storytellers - researchers, doctors, and engineers of course, but also patients, poets, comedians, cops, and more. Some of our stories are heartbreaking, others are hilarious, but they're all true and all very personal. Durée des épisodes : 15 à 30 minutes.
 - [Radiolab](https://www.wnycstudios.org/shows/radiolab/podcasts)
-> A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder. Durée des épisodes : 20 minutes à 1h. En anglais.
+> A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder. Durée des épisodes : 20 minutes à 1h. 
 - [The infinite Monkey cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
 > Witty, irreverent look at the world through scientists' eyes. With Brian Cox and Robin Ince. On BBC Radio 4. Durée des épisodes : 45 minutes à 1h.
 - [Nature podcast](https://www.nature.com/nature/articles?type=nature-podcast)
@@ -164,7 +164,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [The history of Byzantium](https://thehistoryofbyzantium.com/)
 > A podcast telling the story of the Roman (Byzantine) Empire from 476 AD to 1453. Durée des épisodes : 20 à 50 minutes.
 - [The hour of history podcast](https://www.hourofhistory.com/)
-> The Hour of History Podcast is your world, any time, any place.  Durée des épisodes : 1h. En anglais.
+> The Hour of History Podcast is your world, any time, any place.  Durée des épisodes : 1h. 
 - [In our time](https://www.bbc.co.uk/programmes/articles/598SVYJ2smP8qJlpH29y7Vj/podcasts)
 > Melvyn Bragg and guests discuss the history of ideas. Durée des épisodes : 50 minutes.
 - [Climate History Podcast](https://www.historicalclimatology.com/interviews)
@@ -186,10 +186,10 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## Social sciences and Humanities
 
 - [Sapiens](https://www.sapiens.org/sapiens-podcast/)
-> SAPIENS podcast hosts Jen Shannon, Esteban Gómez, and Chip Colwell speak with anthropologists from around the globe to help us uncover what makes us human. Durée des épisodes : 20 minutes à 1h. En anglais.
+> SAPIENS podcast hosts Jen Shannon, Esteban Gómez, and Chip Colwell speak with anthropologists from around the globe to help us uncover what makes us human. Durée des épisodes : 20 minutes à 1h.
 - [Anthropology - University of Oxford](https://podcasts.ox.ac.uk/series/anthropology)
 > Podcasts from the School of Anthropology and Museum Ethnography. The School is renowned for its contributions to anthropological theory, its commitment to long-term ethnographic fieldwork, and its association with the Pitt Rivers Museum and the anthropology of visual and material culture. Home to over forty academic staff, over a hundred doctoral students, twelve Master’s programmes, and two undergraduate degrees (Human Sciences; Archaeology and Anthropology), Oxford anthropology is one of the world’s largest and most vibrant centres for teaching and research in the discipline. Durée des épisodes : 40 minutes à 1h20.
 - [The Human Zoo](https://www.bbc.co.uk/programmes/b036tbly)
 > The Human Zoo explores the foibles, quirks and behaviour of that most fascinating of species - us. On BBC Radio 4. Durée des épisodes : 30 minutes.
 - [Origin stories](https://leakeyfoundation.org/originstories/)
-> Origin Stories is The Leakey Foundation’s podcast about how we became human.Durée des épisodes : 30 minutes à 1h. En anglais.
+> Origin Stories is The Leakey Foundation’s podcast about how we became human.Durée des épisodes : 30 minutes à 1h.
