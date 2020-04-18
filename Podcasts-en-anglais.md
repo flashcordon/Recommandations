@@ -56,9 +56,13 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Futuremakers](https://podcasts.ox.ac.uk/series/futuremakers)
 > Oxford academics debate key issues for the future of society. Series two - Conversations on how we respond to a changing climate, and how humanity will cope and thrive in an uncertain future, with some of the world’s leading thinkers. Season One was all about Artificial Intelligence... Durée des épisodes : 1h. En anglais.
 - [Armchair Explorer](https://www.armchair-explorer.com/)
+> The world's greatest adventurers tell their best story from the road. Each episode is cut documentary style and set to music and cinematic effects to create an immersive storytelling experience. No long-winded interviews, just straight to the heart of the action. DUrée des épisodes : 30 minutes à 1h.
 - [Overheard at National Geographic](https://www.nationalgeographic.com/podcasts/overheard/)
+> Whale American Idol. Underwater pyramids. A honeybee chop shop. Each week we'll dive into one of the curiously delightful conversations we've overheard around National Geographic's headquarters. You'll be introduced to the explorers, photographers and scientists at the edges of our big, bizarre, and beautiful world. Durée des épisodes : 15 à 25 minutes.
 - [The History of exploration Podcast](https://historyofexploration.net/)
+> A podcast telling the story of history's great explorers, from the early classical voyages of exploration to modern times. Durée des épisodes : 35 minutes à 1h05.
 - [The explorers Podcast](https://explorerspodcast.com/)
+> A podcast about the greatest explorers in history.Durée des épisodes : 25 minutes à 1h15.
 
 ## Space and astronomy
 
