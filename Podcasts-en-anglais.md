@@ -122,10 +122,15 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## Environement
 
 - [Warm regards](https://soundcloud.com/warmregardspodcast)
+> Warm Regards is a podcast about the warming planet. The show is hosted by Dr. Jacquelyn Gill, a paleoecologist at the University of Maine, and co-host including Dr. Ramesh Laungani, a biologist at Doane University with co-hosts and Dr. Sarah Myhre, a climate scientist, scholar, and communicator. Produced by Justin Schell, and Eric Mack, with transcription and social media support from Joe Stormer and Katherine Peinhardt. Durée des épisodes : "30 minutes à 1h.
 - [The Anthropocene Reviewed](https://soundcloud.com/theanthropocenereviewed)
+> The Anthropocene is the current geological age, in which human activity has profoundly shaped the planet and its biodiversity. On The Anthropocene Reviewed, #1 New York Times bestselling author John Green (The Fault in Our Stars, Turtles All the Way Down) reviews different facets of the human-centered planet on a five-star scale. WNYC Studios is a listener-supported producer of other leading podcasts including On the Media, Snap Judgment, Death, Sex & Money, Nancy and Here’s the Thing with Alec Baldwin. © WNYC Studios. Durée des épisodes : 20 à 30 minutes.
 - [Generation Anthropocene](https://soundcloud.com/generation-anthropocene)
+> Stories and conversations about planetary change. Hosted by Mike Osborne, Miles Traer, and Leslie Chang. Supported by Stanford Earth and Worldview Stanford. Durée des épisodes : 10 à 30 minutes.
 - [America adapts](https://www.americaadapts.org/)
+> A changing climate presents humanity with only one option: adapt. Join your host, Doug Parsons for America's leading podcast on climate change - America Adapts! Each episode, Doug sits down with scientists, activists, policymakers, and journalists to discuss the tough questions facing this country and the world as we confront humanity's greatest challenge. Question your assumptions, refresh your perspective, and become part of the climate movement that will determine our planet's future, right here on the America Adapts podcast. Durée des épisodes : 30 minutes à 2h.
 - [Hakai Magazine Audio Edition](https://www.hakaimagazine.com/audio-edition/)
+> Hakai Magazine explores science, society, and the environment from a coastal perspective. This audio edition showcases readings of our long-form feature stories. New episodes are typically published Tuesdays.Durée des épisodes : 15 à 40 minutes.
 - [Climate History Podcast](https://www.historicalclimatology.com/interviews)
 > Climate History features interviews and discussions about the history of climate change. Conversations consider what the past can tell us about our present and future. It is hosted by Dr. Dagomar Degroot, associate professor of environmental history at Georgetown University, and Emma Moesswilde, a PhD student in environmental and climate history at Georgetown. Durée des épisodes : 30 minutes à 1h.
 
