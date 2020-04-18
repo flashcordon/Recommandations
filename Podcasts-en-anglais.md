@@ -100,7 +100,9 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 ## Biology
 
 - [What is Life ?](https://medium.com/@carlzimmer/what-is-life-a-podcast-series-7e91cb9a491b)
+> A series of live conversations between writer Carl Zimmer and eight leading thinkers on the question of what it means to be alive. What Is Life? was recorded in front of a live audience at Caveat in New York and is supported by a grant from Science Sandbox, a Simons Foundation initiative. Durée des épisodes : 40 minutes à 1h.
 - [This podcast will kill you](http://thispodcastwillkillyou.com/)
+> This podcast might not actually kill you, but it covers so many things that can. Each episode tackles a different disease, from its history, to its biology, and finally, how scared you need to be. Ecologists and epidemiologists Erin Welsh and Erin Allmann Updyke make infectious diseases acceptable fodder for dinner party conversation and provide the perfect cocktail recipe to match Durée des épisodes : 45 minutes à 2h.
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
 
