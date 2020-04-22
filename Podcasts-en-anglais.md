@@ -129,7 +129,9 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [This podcast will kill you](http://thispodcastwillkillyou.com/)
 > This podcast might not actually kill you, but it covers so many things that can. Each episode tackles a different disease, from its history, to its biology, and finally, how scared you need to be. Ecologists and epidemiologists Erin Welsh and Erin Allmann Updyke make infectious diseases acceptable fodder for dinner party conversation and provide the perfect cocktail recipe to match Durée des épisodes : 45 minutes à 2h.
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
-> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
+> Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. 
+- [Genetics Unzipped](https://geneticsunzipped.com/)
+> From Mendel's peas to personal genome sequencing, Genetics Unzipped brings you stories from the world of genes, genomes and DNA. In association with The Genetics Society. Durée des épisodes : 10 à 40 minutes.
 
 ## Environement
 
