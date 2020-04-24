@@ -147,6 +147,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > Hakai Magazine explores science, society, and the environment from a coastal perspective. This audio edition showcases readings of our long-form feature stories. New episodes are typically published Tuesdays.Durée des épisodes : 15 à 40 minutes.
 - [Climate History Podcast](https://www.historicalclimatology.com/interviews)
 > Climate History features interviews and discussions about the history of climate change. Conversations consider what the past can tell us about our present and future. It is hosted by Dr. Dagomar Degroot, associate professor of environmental history at Georgetown University, and Emma Moesswilde, a PhD student in environmental and climate history at Georgetown. Durée des épisodes : 30 minutes à 1h.
+- [Third Pod from the Sun](https://thirdpodfromthesun.com/)
+> Third Pod from the Sun is the American Geophysical Union’s podcast about the scientists and methods behind the science. These are stories that you won’t read in a manuscript or hear in a lecture. Durée des épisodes : 25 minutes.
 
 ## Neurosciences
 
