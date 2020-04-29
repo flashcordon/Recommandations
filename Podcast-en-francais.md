@@ -43,6 +43,8 @@
 > L'espace en tête est une chronique de l'émission Europe matin animée par Jean-Yves le Gall sur Europe 1. Durée des épisodes : 3 minutes.
 - [La folle histoire de l'univers](https://podcasts.apple.com/fr/podcast/la-folle-histoire-de-lunivers/id564587024)
 > Podcast d'une passionnée des sciences de l'Univers, présenté par Florence Porcel. Durée des épisodes : 10 à 55 minutes.
+- [300 milliards d'étoiles](https://podcast.ausha.co/300-milliards-d-etoiles)
+> À quoi ressembleront les extraterrestres ? Pourra-t-on un jour vivre sur Mars ? Chaque mois, Vincent Lucchese, journaliste à Usbek & Rica rencontre un spécialiste du sujet pour explorer les mystères de l'univers. Durée des épisodes: 20 minutes à 1h.
 
 ## Philosophie
 
