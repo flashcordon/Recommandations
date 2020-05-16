@@ -115,6 +115,8 @@
 > Podcast du CeSCuP (Centre de recherche en Psychologie Sociale et Culturelle) de l’Université Libre de Bruxelles. Il vous propose un voyage à la rencontre de spécialistes et chercheurs dans de multiples domaines de la psychologie. Ils partageront avec vous leurs sujets d’intérêt et leur(s) thématique(s) de recherche, ainsi que leur regard sur le monde. Durée des épisodes : entre 40 et 50 minutes.
 - [Mondes sociaux](https://sms.hypotheses.org/category/podcasts)
 > Podcast du Magazine des sciences humaines et sociales aux sujets variés. Durée des épisodes : 1h à 1h30. 
+- [Edukey Podcast](https://edukey-podcast.lepodcast.fr/comment-apprend-on-lapprentissage-vu-par-la-sociologie-1)
+> Embarquez pour une exploration autour de l'apprentissage. Nous partons à la rencontre d'experts de différentes disciplines pour comprendre comment on apprend. Après chaque épisode avec un.e chercheur.e, nous invitons des enseignants à réagir à ce qui a été dit. Durée des épisodes : 50 minutes.
 
 
 ## Musique
