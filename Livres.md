@@ -22,3 +22,4 @@
 - Les dix mille ans oubliés qui ont fait l'histoire - Jean-Paul Demoule
 - Ada ou la beauté des nombres - Catherine Dufour
 - Consciousness, a very short introduction - Susan Blackmore
+- Galileo's error - Philip Goff
