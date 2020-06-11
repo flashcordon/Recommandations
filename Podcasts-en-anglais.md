@@ -160,6 +160,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > Neuroscience and AI work better together. AI leverages current brain research to inform its work. Likewise, neuroscientists use AI tools to learn more about the workings of the brain. Durée des épisodes : 1h30. 
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h.
+- [On consciousness with Bernard Baars](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL29uY29uc2Npb3VzbmVzc3dpdGhiZXJuYXJkYmFhcnMvZmVlZC54bWw&ep=14&fbclid=IwAR0E0Y-3c9Hx2fvHiNeSuHrrYk8XuZQnEzllSXDfFEKWA-HWajq5qDcmMpU)
+> Many philosophers think there’s a gap between the mind and body, but there’s no evidence for that. Recorded in Nobel Laureate Gerald Edelman’s home library & the Athenaeum Music & Arts Library, episodes of the On Consciousness podcast are open-minded discussions on some new ideas about the scientific study of consciousness and the brain. Join Bernard Baars, originator of Global Workspace Theory (GWT) and acclaimed author in psychobiology, and his innovative guests to discover the conscious brain. Durée des épisodes : entre 15 minutes et 1h30
 
 ## History
 
