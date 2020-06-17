@@ -119,6 +119,8 @@
 > Embarquez pour une exploration autour de l'apprentissage. Nous partons à la rencontre d'experts de différentes disciplines pour comprendre comment on apprend. Après chaque épisode avec un.e chercheur.e, nous invitons des enseignants à réagir à ce qui a été dit. Durée des épisodes : 50 minutes.
 - [Carbone 14](https://www.franceculture.fr/emissions/carbone-14-le-magazine-de-larcheologie)
 > Pour découvrir l’archéologie d’aujourd’hui, ses sciences connexes, mais aussi approcher et décrypter ce que la discipline recouvre de concepts, de modèles, Carbone 14 retrace les avancées de la recherche française et internationale, parcourt terrains, chantiers et laboratoires. Six millions d’années, de l’émergence de l’Homme au passé le plus récent : le champ de recherche est immense. Durée des épisodes : 30 minutes.
+- [Paroles d'histoire](http://parolesdhistoire.fr/index.php/liste-des-episodes/)
+> Un podcast consacré à l'actualité des livres, de la recherche et des débats en histoire. Durée des épisodes : 40 min à 1h.
 
 ## Musique
 
