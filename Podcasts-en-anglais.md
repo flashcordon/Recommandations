@@ -84,7 +84,9 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Houston we have a podcast](https://www.nasa.gov/johnson/HWHAP)
 > If you’re fascinated by the idea of humans traveling through space and curious about how that all works, you’ve come to the right place. This is the official podcast of the NASA Johnson Space Center in Houston, Texas. Durée des épisodes : 30 minutes à 1h.
 - [Exocast](http://www.exocast.org/)
-> Un podcast sur les dernières nouvelles de la science des exoplanètes. Durée des épisodes : 1h. En anglais. 
+> Un podcast sur les dernières nouvelles de la science des exoplanètes. Durée des épisodes : 1h.
+- [Why this universe?](https://whythisuniverse.buzzsprout.com/1162613)
+> The biggest ideas in physics, broken down. Join theoretical physicist Dan Hooper and soon-to-be physicist Shalma Wegsman as they answer your questions about dark matter, black holes, quantum mechanics, and more. Dan is a physicist at Fermilab and the University of Chicago, and Shalma is a PhD student at New York University. Durée des épisodes : 20 minutes.
 
 ## Physics
 
@@ -98,6 +100,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > Listen to Quanta Magazine's in-depth news stories about developments in mathematics, theoretical physics, theoretical computer science and the basic life sciences. Quanta, an editorially independent magazine published by the Simons Foundation, seeks to enhance public understanding of basic research. Durée des épisodes : 10 à 30 minutes.
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 > Sean Carroll hosts conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas. Durée des épisodes : entre 1h et 2h. En anglais.
+- [Why this universe?](https://whythisuniverse.buzzsprout.com/1162613)
+> The biggest ideas in physics, broken down. Join theoretical physicist Dan Hooper and soon-to-be physicist Shalma Wegsman as they answer your questions about dark matter, black holes, quantum mechanics, and more. Dan is a physicist at Fermilab and the University of Chicago, and Shalma is a PhD student at New York University. Durée des épisodes : 20 minutes.
 
 ## Philosophy
 
