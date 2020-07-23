@@ -39,6 +39,7 @@
 - [Anton Petrov](https://www.youtube.com/user/whatdamath)
 - [SpaceRip](https://www.youtube.com/user/SpaceRip)
 - [Josie A Peters](https://www.youtube.com/channel/UCvfN6MRbOBAa94aAkMW0ONA)
+- [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 
 # Earth Sciences and Climate Change
 
@@ -61,6 +62,7 @@
 - [Sixty Symbols](https://www.youtube.com/user/sixtysymbols)
 - [Tibees](https://www.youtube.com/user/tibees/videos)
 - [Fermilab](https://www.youtube.com/user/fermilab)
+- [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 
 # Chemistry
 
