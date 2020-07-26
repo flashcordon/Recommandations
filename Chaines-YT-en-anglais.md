@@ -82,6 +82,7 @@
 - [zefrank1](https://www.youtube.com/user/zefrank1)
 - [The Jungle Diaries](https://www.youtube.com/channel/UClaC4xkueyTnrJQ6IvdMlgg/about)
 - [Ant Lab](https://www.youtube.com/user/adrianalansmith)
+- [E.D.G.E](https://www.youtube.com/c/TheExpeditionersDiscoveryGuild/videos)
 
 # Neurosciences
 
