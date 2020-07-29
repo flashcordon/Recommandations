@@ -7,3 +7,4 @@
 - [Velocityraptor](https://www.testtubegames.com/velocityraptor.html)
 - [Apollo Real Time Experience](https://apolloinrealtime.org/)
 - [Theories of Everything, mapped](https://www.quantamagazine.org/frontier-of-physics-interactive-map-20150803/)
+- [TikToks de vulgarisation de Kirsten Banks (AstroKirsten)](https://twitter.com/AstroKirsten/status/1288384211120877568)
