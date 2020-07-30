@@ -26,6 +26,7 @@
 - [Susanna L Harris](https://www.youtube.com/channel/UCq-WYDxJtCnjv7KUZ7kUObQ)
 - [The Action Lab](https://www.youtube.com/channel/UC1VLQPn9cYSqx8plbk9RxxQ)
 - [Professor Dave explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
+- [Because Science](https://www.youtube.com/c/becausescience/videos)
 
 # Astrophysics and Space
 
