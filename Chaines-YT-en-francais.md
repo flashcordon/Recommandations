@@ -143,6 +143,7 @@
 - [L'histoire nous le dira](https://www.youtube.com/channel/UCN4TCCaX-gqBNkrUqXdgGRA/about)
 - [On va faire cours](https://www.youtube.com/user/betatestmode/videos)
 - [C'est pas sourcé](https://www.youtube.com/channel/UCKYxU5ZkjTHwnhoGGYfwjPw)
+- [Le Phare à On](https://www.youtube.com/channel/UCAGS6NZLc6IgKawROgYG3oA)
 
 ## Anthropologie
 
