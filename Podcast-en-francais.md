@@ -27,7 +27,13 @@
 - [Savants sachant chercher](http://scienceinfuse.cool/)
 > Podcast de vulgarisation scientifique : entretien avec un acteur de la science dans son labo ! Une notion scientifique venant de domaines très différents par épisode. Le podcast est préparé, réalisé et produit par Science infuse. Science infuse c'est Laure, docteure en physique appliqué aux neurosciences, et Adrien ingénieur en électronique numérique. C'est ouvert à tous, pas besoin d'avoir de connaissance particulières ! Durée des épisodes : 30 à 45 minutes.
 - [Sème ta science](https://www.semetascience.org/les-podcasts/)
-> Une série de podcasts sur les pratiques de la médiation scientifique et la science dans la culture. Durée des épisodes : 3 à 30 minutes. 
+> Une série de podcasts sur les pratiques de la médiation scientifique et la science dans la culture. Durée des épisodes : 3 à 30 minutes.
+- [Community Manager](https://lepostegeneral.fr/onair/listen/id/1296/program/43)
+> Dans cette série qui est déjà un grand classique de la podcastsphère, Guillaume Natas nous fait découvrir les communautés que lui même a dénichées sur le word wide web. Une sorte de transmission de savoir. 
+- [Cautionary Tales](https://timharford.com/articles/cautionarytales/)
+> My podcast, telling true stories about mistakes and what we should learn from them.
+- [SIGMA](https://shows.acast.com/sigma)
+> Podcast de l'école Polytechnique
  
 ## Astronomie et espace
 
@@ -74,6 +80,9 @@
 > Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes. 
 - [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
 > Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
+- [Genetics Unzipped](https://geneticsunzipped.com/)
+> Genetics Unzipped is the podcast from the Genetics Society - one of the oldest learned societies dedicated to supporting and promoting the research, teaching and application of genetics.
+- [Species](https://www.speciespodcast.com/)
 
 ## Environnement
 
@@ -121,6 +130,8 @@
 > Pour découvrir l’archéologie d’aujourd’hui, ses sciences connexes, mais aussi approcher et décrypter ce que la discipline recouvre de concepts, de modèles, Carbone 14 retrace les avancées de la recherche française et internationale, parcourt terrains, chantiers et laboratoires. Six millions d’années, de l’émergence de l’Homme au passé le plus récent : le champ de recherche est immense. Durée des épisodes : 30 minutes.
 - [Paroles d'histoire](http://parolesdhistoire.fr/index.php/liste-des-episodes/)
 > Un podcast consacré à l'actualité des livres, de la recherche et des débats en histoire. Durée des épisodes : 40 min à 1h.
+- [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais/parler-comme-jamais/)
+> Une fois par mois, Laélia Véron, autrice de « Le français est à nous ! », part des clichés que nous avons sur la langue, pour les déconstruire en montrant comment, quand on parle de langage, on parle souvent d’autre chose : d’interactions sociales, de ressentis affectifs, de choix et d’oppositions politiques. Un podcast qui allie rigueur scientifique et approche pédagogique pour décomplexer notre rapport au français. Parler comme jamais est un podcast de Binge Audio, réalisé avec le soutien de la Délégation générale à la langue française et aux langues de France (ministère de la Culture) et avec la collaboration scientifique de Maria Candea, enseignante-chercheuse à l’université de Paris 3. 
 
 ## Musique
 
@@ -144,5 +155,11 @@
 
 - [L'oreille mathématique](https://maison-des-maths.paris/podcasts/)
 > Podcast de l'Institut Henri Poincaré. Une conversation mensuelle avec des mathématiciennes et mathématiciens pour mettre en lumière le tempérament et les idées de celles et ceux qui font les mathématiques contemporaines. Durée des épisodes : 30 minutes.
+
+## Sexualité
+
+- [Intime et politique](https://nouvellesecoutes.fr/podcast/intime-politique/)
+> « Intime et Politique » est le flux de podcasts féministes de Nouvelles Ecoutes, proposé par Lauren Bastide. A travers des documentaires sonores de 4 à 6 heures, « Intime et Politique » s’attaque aux racines des discriminations sexistes et des stéréotypes de genre. Dans cette première saison, trois réalisateurs·rices activistes exploreront la thématique des corps sexués des femmes et proposeront de décaler le point de vue.
+- [Entre nos lèvres](https://www.entrenoslevres.fr/)
 
 
