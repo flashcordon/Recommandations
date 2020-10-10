@@ -67,6 +67,7 @@
 - [Parle moi de philo](https://www.youtube.com/channel/UCLVy1G4ns5D4qPttvE4Cmcg)
 - [Maxime Lambrecht](https://www.youtube.com/channel/UCdKTlsmvczkdvGjiLinQwmw/featured)
 - [Sciencia Huasca](https://www.youtube.com/channel/UCNMns3zbytLPooWwNmMh9_w)
+- [Philoxime](https://www.youtube.com/channel/UCdKTlsmvczkdvGjiLinQwmw)
 
 ## Mathématiques
 
