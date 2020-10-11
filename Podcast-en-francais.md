@@ -83,6 +83,8 @@
 - [Genetics Unzipped](https://geneticsunzipped.com/)
 > Genetics Unzipped is the podcast from the Genetics Society - one of the oldest learned societies dedicated to supporting and promoting the research, teaching and application of genetics.
 - [Species](https://www.speciespodcast.com/)
+- [Pour que nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
+> Face à l’effondrement environnemental croissant, les scientifiques du Muséum prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode de 30 minutes, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes.
 
 ## Environnement
 
