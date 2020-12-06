@@ -65,7 +65,9 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [The History of exploration Podcast](https://historyofexploration.net/)
 > A podcast telling the story of history's great explorers, from the early classical voyages of exploration to modern times. Durée des épisodes : 35 minutes à 1h05.
 - [The explorers Podcast](https://explorerspodcast.com/)
-> A podcast about the greatest explorers in history.Durée des épisodes : 25 minutes à 1h15.
+> A podcast about the greatest explorers in history. Durée des épisodes : 25 minutes à 1h15.
+- [Biosphere 2 Podcast](https://biosphere2podcast.libsyn.com/#)
+> Each episode we feature in depth interviews with scientists, authors, engineers, entrepreneurs, artists and policy makers exploring the threads between Earth, its living systems, and our place in the Universe. Durée des épisodes : 50 min à 1h15
 
 ## Space and astronomy
 
