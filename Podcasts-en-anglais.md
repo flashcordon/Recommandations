@@ -127,6 +127,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > Very Bad Wizards is a podcast featuring a philosopher (Tamler Sommers) and a psychologist (David Pizarro), who share a love for ethics, pop culture, and cognitive science, and who have a marked inability to distinguish sacred from profane. Each podcast includes discussions of moral philosophy, recent work on moral psychology and neuroscience, and the overlap between the two. Durée des épisodes : entre 1h et 2h. En anglais.
 - [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
 > The greatest thinkers exploring the deepest questions. Your source for Cosmos, Consciousness, Meaning. Durée des épisodes : 27 minutes.
+- [TrueSciPhi's list of philosophy podcasts](https://truesciphi.org/phipod_series.html)
 
 ## Biology
 
