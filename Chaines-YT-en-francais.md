@@ -33,6 +33,7 @@
 - [La Minute Science](https://www.youtube.com/channel/UCwBn4dgV3kxzvcCKN3TbQOQ)
 - [HEIN?](https://www.youtube.com/channel/UClmMdBgP85LOjp-X1LPNGdw)
 - [Rêves d'espace](https://www.youtube.com/user/idariane)
+- [Space Apero](https://www.youtube.com/channel/UCnNZKXnA11CWGe9KaKrRofA)
 
 
 ## Biologie
