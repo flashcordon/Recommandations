@@ -150,6 +150,7 @@
 ## Anthropologie
 
 - [AnthroStory](https://www.youtube.com/user/anthropodcast/about)
+- [Les ethnochroniques](https://www.youtube.com/channel/UCistL402uixsBBcDwVicKmg)
 
 ## Listes de vidéastes culturels
 
