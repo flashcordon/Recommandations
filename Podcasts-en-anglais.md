@@ -141,6 +141,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > From Mendel's peas to personal genome sequencing, Genetics Unzipped brings you stories from the world of genes, genomes and DNA. In association with The Genetics Society. Durée des épisodes : 10 à 40 minutes.
 - [Nature Insight: Speed Dating with the Future](https://podcasts.apple.com/us/podcast/id1518308737)
 > Speed dating is about having a short time to communicate things that could change your life. And that’s exactly what we’re going to do on this podcast, by introducing you to the people who are thinking deeply about our future relationship with nature. Durée des épisodes : 30 minutes.
+- [Gardeners of the Galaxy](https://gardenersofthegalaxy.podbean.com/)
+> Gardeners of the Galaxy is a podcast for all of the sentient beings in the Universe who have a passion for plants. Emma the Space Gardener is your guide as you explore cultivating the cosmos, planting planets and sowing seeds in space. Durée des épisodes : 15 à 40 minutes.
 
 ## Environement
 
