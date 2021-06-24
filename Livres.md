@@ -23,5 +23,8 @@
 - Ada ou la beauté des nombres - Catherine Dufour
 - Consciousness, a very short introduction - Susan Blackmore
 - Galileo's error - Philip Goff
+- L'événement Anthropocène - Jean-Baptiste Fressoz et Christophe Bonneuil
+- Une écologie décoloniale - Malcolm Ferdinand
+- Reclaim - Emilie Hache
 
 - [Liste de livres de SF et de Fantasy primés](https://docs.google.com/spreadsheets/d/1qtH8waK4DgvoCc1iP34y-lbjGHFyKhrUBMTLaAmELiY/edit#gid=1046748973)
