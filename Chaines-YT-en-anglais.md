@@ -64,6 +64,7 @@
 - [Tibees](https://www.youtube.com/user/tibees/videos)
 - [Fermilab](https://www.youtube.com/user/fermilab)
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
+- [Quanta Magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg)
 
 # Chemistry
 
