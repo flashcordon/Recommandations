@@ -69,6 +69,7 @@
 - [Maxime Lambrecht](https://www.youtube.com/channel/UCdKTlsmvczkdvGjiLinQwmw/featured)
 - [Sciencia Huasca](https://www.youtube.com/channel/UCNMns3zbytLPooWwNmMh9_w)
 - [Philoxime](https://www.youtube.com/channel/UCdKTlsmvczkdvGjiLinQwmw)
+- [Le décodeur philosophique](https://www.youtube.com/c/ledecodeurphilosophique/videos)
 
 ## Mathématiques
 
@@ -82,6 +83,7 @@
 - [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ)
 - [Mister Geopolitix](https://www.youtube.com/channel/UCX9lsdsTKfTi1eqoyL-RS-Q)
 - [Le dessous des cartes](https://www.youtube.com/channel/UCHGMBrXUzClgjEzBMei-Jdw)
+- [le P'tit Dèche](https://www.youtube.com/channel/UCecEMqW6jK4yP2B8Lw6JWGw)
 
 ## Sociologie
 
