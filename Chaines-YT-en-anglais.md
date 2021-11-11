@@ -89,6 +89,7 @@
 # Neurosciences
 
 - [Neuroscientifically Challenged](https://www.youtube.com/channel/UCUgZq9PkDp1xaEivtcfJPSg)
+- [Neuro Transmissions](https://www.youtube.com/c/neurotransmissions/about)
 
 # Mathematics
 
