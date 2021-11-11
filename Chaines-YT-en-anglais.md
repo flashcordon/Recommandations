@@ -115,6 +115,7 @@
 
 - [Brain Craft](https://www.youtube.com/results?search_query=brain+craft)
 - [Sci Show Psych](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA)
+- [Neuro Transmissions](https://www.youtube.com/c/neurotransmissions/about)
 
 # Computer Science
 
