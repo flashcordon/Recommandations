@@ -162,6 +162,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > Climate History features interviews and discussions about the history of climate change. Conversations consider what the past can tell us about our present and future. It is hosted by Dr. Dagomar Degroot, associate professor of environmental history at Georgetown University, and Emma Moesswilde, a PhD student in environmental and climate history at Georgetown. Durée des épisodes : 30 minutes à 1h.
 - [Third Pod from the Sun](https://thirdpodfromthesun.com/)
 > Third Pod from the Sun is the American Geophysical Union’s podcast about the scientists and methods behind the science. These are stories that you won’t read in a manuscript or hear in a lecture. Durée des épisodes : 25 minutes.
+- [Eons: Mysteries of Deep Time](https://podcasts.apple.com/sg/podcast/eons-mysteries-of-deep-time/id1610360633)
+> Dig into the past and explore the greatest mysteries of natural history with the team behind the hit YouTube series PBS Eons. From the dawn of the dinosaurs to downtown Los Angeles, we’re covering what we know — and what we still don’t know — about the history of life on Earth. Durée des épisodes : 15 minutes.
 
 ## Neurosciences
 
