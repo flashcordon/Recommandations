@@ -59,6 +59,8 @@
 > Podcast d'une passionnée des sciences de l'Univers, présenté par Florence Porcel. Durée des épisodes : 10 à 55 minutes.
 - [300 milliards d'étoiles](https://podcast.ausha.co/300-milliards-d-etoiles)
 > À quoi ressembleront les extraterrestres ? Pourra-t-on un jour vivre sur Mars ? Chaque mois, Vincent Lucchese, journaliste à Usbek & Rica rencontre un spécialiste du sujet pour explorer les mystères de l'univers. Durée des épisodes: 20 minutes à 1h.
+- [SpaceSheep](https://audioblog.arteradio.com/blog/173932/space-sheep) 
+> Le podcast qui vous raconte des histoires d'espace en dix minutes ou moins. Durée des épisodes : 5 minutes.
 
 ## Philosophie
 
