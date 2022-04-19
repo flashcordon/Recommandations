@@ -93,6 +93,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > Un podcast sur les dernières nouvelles de la science des exoplanètes. Durée des épisodes : 1h.
 - [Why this universe?](https://whythisuniverse.buzzsprout.com/1162613)
 > The biggest ideas in physics, broken down. Join theoretical physicist Dan Hooper and soon-to-be physicist Shalma Wegsman as they answer your questions about dark matter, black holes, quantum mechanics, and more. Dan is a physicist at Fermilab and the University of Chicago, and Shalma is a PhD student at New York University. Durée des épisodes : 20 minutes.
+- [Star Stuff Podcast](https://lowell.edu/category/star-stuff-podcast/) 
+> Podcast of the Lowell Observatory.
 
 ## Physics
 
