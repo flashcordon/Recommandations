@@ -95,6 +95,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > The biggest ideas in physics, broken down. Join theoretical physicist Dan Hooper and soon-to-be physicist Shalma Wegsman as they answer your questions about dark matter, black holes, quantum mechanics, and more. Dan is a physicist at Fermilab and the University of Chicago, and Shalma is a PhD student at New York University. Durée des épisodes : 20 minutes.
 - [Star Stuff Podcast](https://lowell.edu/category/star-stuff-podcast/) 
 > Podcast of the Lowell Observatory.
+- [Astrosoundbites](https://astrosoundbites.com/)
+> The hosts of astro[sound]bites are three Astronomy PhD students studying a range of astronomy topics at different universities around the United States, excited to share our love of science and interesting new research results. Durée des épisodes : 45 minutes.
 
 ## Physics
 
