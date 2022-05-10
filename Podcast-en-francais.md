@@ -111,6 +111,10 @@
 > Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
 - [Chaleur Humaine](https://podcasts.apple.com/us/podcast/chaleur-humaine/id1622382158)
 > Comment faire face au défi climatique ? Tous les mardis, Nabil Wakim et la rédaction du Monde invitent des experts pour comprendre les enjeux et trouver des solutions. Durée des épisodes : 45 minutes.
+- [Denrières limites](https://podcast.ausha.co/dernieres-limites)
+> ll y a 50 ans paraissait un rapport scientifique qui fit l’effet d’une bombe. Le rapport Meadows évaluait pour la première fois l’impact de l’activité humaine sur notre planète. Sa conclusion : continuer la croissance, qui va de paire avec une consommation toujours plus grande des ressources planétaires, aboutirait inévitablement à un “crash” au cours du XXIème siècle. Durée des épisodes : 20 à 40 minutes.
+
+Dans ce podcast, la journaliste Audrey Boehly mène l’enquête 50 ans après en interrogeant des experts et des scientifiques : a-t-on dépassé les limites planétaires ? Quelles sont les solutions pour bâtir un avenir où l’activité humaine n’épuiserait pas les ressources de notre seule planète ?
 
 ## Neurosciences
 
