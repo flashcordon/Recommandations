@@ -109,6 +109,8 @@
 > Face à l’effondrement environnemental croissant, les scientifiques du Muséum National d'Histoire Naturelle prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes.
 - [La Terre au carré](https://www.franceinter.fr/emissions/la-tete-au-carre)
 > Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
+- [Chaleur Humaine](https://podcasts.apple.com/us/podcast/chaleur-humaine/id1622382158)
+> Comment faire face au défi climatique ? Tous les mardis, Nabil Wakim et la rédaction du Monde invitent des experts pour comprendre les enjeux et trouver des solutions. Durée des épisodes : 45 minutes.
 
 ## Neurosciences
 
