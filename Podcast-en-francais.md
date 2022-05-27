@@ -97,7 +97,7 @@
 - [Pour que nature vive](https://www.mnhn.fr/fr/explorez/podcasts/pour-que-nature-vive)
 > Face à l’effondrement environnemental croissant, les scientifiques du Muséum prennent la parole pour alerter. Série audio en 12 épisodes, Pour que nature vive a pour thème central la nature : mieux la connaître pour mieux la préserver. Dans chaque épisode de 30 minutes, une chercheuse ou un chercheur partage ses connaissances et solutions, pour mieux comprendre le vivant et le monde qui nous entoure. Durée des épisodes : 30 minutes.
 
-## Environnement
+## Environnement et écologie politique
 
 - [Podcast de Nadège Joly](https://soundcloud.com/nad-ge-joly/sets/podcast-crises)
 > Un podcast de conversations avec des chercheurs sur les questions liées à l'environnement et à la biodiversité. Durée des épisodes : 30 minutes.
@@ -111,10 +111,12 @@
 > Nature, climat, pollution, idées, engagements, solutions : toute l’actualité de la planète pour imaginer le monde d’aujourd’hui et de demain. Présenté par Mathieu Vidard. Durée des épisodes : 55 minutes.
 - [Chaleur Humaine](https://podcasts.apple.com/us/podcast/chaleur-humaine/id1622382158)
 > Comment faire face au défi climatique ? Tous les mardis, Nabil Wakim et la rédaction du Monde invitent des experts pour comprendre les enjeux et trouver des solutions. Durée des épisodes : 45 minutes.
-- [Denrières limites](https://podcast.ausha.co/dernieres-limites)
-> ll y a 50 ans paraissait un rapport scientifique qui fit l’effet d’une bombe. Le rapport Meadows évaluait pour la première fois l’impact de l’activité humaine sur notre planète. Sa conclusion : continuer la croissance, qui va de paire avec une consommation toujours plus grande des ressources planétaires, aboutirait inévitablement à un “crash” au cours du XXIème siècle. Durée des épisodes : 20 à 40 minutes.
-
-Dans ce podcast, la journaliste Audrey Boehly mène l’enquête 50 ans après en interrogeant des experts et des scientifiques : a-t-on dépassé les limites planétaires ? Quelles sont les solutions pour bâtir un avenir où l’activité humaine n’épuiserait pas les ressources de notre seule planète ?
+- [Dernières limites](https://podcast.ausha.co/dernieres-limites)
+> ll y a 50 ans paraissait un rapport scientifique qui fit l’effet d’une bombe. Le rapport Meadows évaluait pour la première fois l’impact de l’activité humaine sur notre planète. Sa conclusion : continuer la croissance, qui va de paire avec une consommation toujours plus grande des ressources planétaires, aboutirait inévitablement à un “crash” au cours du XXIème siècle. Dans ce podcast, la journaliste Audrey Boehly mène l’enquête 50 ans après en interrogeant des experts et des scientifiques : a-t-on dépassé les limites planétaires ? Quelles sont les solutions pour bâtir un avenir où l’activité humaine n’épuiserait pas les ressources de notre seule planète ? Durée des épisodes : 20 à 40 minutes. 
+- [Radio REcyclerie](https://www.larecyclerie.com/podcasts/)
+> Radio REcyclerie, le podcast des idées, des débats et des écologies. Durée des épisodes : 20 min à 1h30.
+- [Avis de tempête](https://audioblog.arteradio.com/blog/177155/avis-de-tempete)
+> Avis de Tempête est un podcast qui parle d'écologie politique et de luttes sociales. Dans cette série de podcast, on aimerait apporter des clés de compréhension de ce monde, un monde qui ne cesse de détruire nos milieux de vie, nos liens et nos existences. on aimerait raconter nos expériences politiques et nos combats, nos joies et nos espoirs. On aimerait porter la voix des personnes qui luttent contre des projets inutiles et qui cherchent à s'émanciper du monde de l'économie et de la marchandise. Aujourd'hui, dans la cacophonie ambiante, ce qui compte pour nous, c'est surtout de faire entendre des voix divergentes pour tenter d'enrayer notre paralysie et notre sentiment d'impuissance, pour ne pas laisser gagner celleux qui disent qu'il est trop tard, qu'il n'y a plus rien à faire ou qu'il n'existe pas d'autres mondes possibles. Durée des épisodes : 30 minutes à 1h.
 
 ## Neurosciences
 
