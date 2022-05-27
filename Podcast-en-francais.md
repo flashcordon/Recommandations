@@ -61,7 +61,8 @@
 > À quoi ressembleront les extraterrestres ? Pourra-t-on un jour vivre sur Mars ? Chaque mois, Vincent Lucchese, journaliste à Usbek & Rica rencontre un spécialiste du sujet pour explorer les mystères de l'univers. Durée des épisodes: 20 minutes à 1h.
 - [SpaceSheep](https://audioblog.arteradio.com/blog/173932/space-sheep) 
 > Le podcast qui vous raconte des histoires d'espace en dix minutes ou moins. Durée des épisodes : 5 minutes.
-- La nouvelle odyssée de l'espace
+- [La nouvelle odyssée de l'espace](https://open.spotify.com/show/7rhOmCYw7d1sKfEIZl4PZ4)
+> Après l’époque des pionniers, l’espace est aujourd’hui entré dans une ère inédite. Un nouvel âge d’or qui fourmille de défis technologiques, économiques, géopolitiques et écologiques colossaux. Et cette révolution qui se joue au-dessus de nos têtes a un impact très concret sur nos vies. Accompagné d’astronautes, de chercheurs, d’ingénieurs, d’entrepreneurs et d’autres acteurs essentiels de cette nouvelle épopée spatiale, Théo Drieu, alias Balade Mentale, décrypte tous les enjeux d’une histoire qui ne fait que commencer. Durée des épisodes : 15 à 20 minutes.
 
 ## Philosophie
 
