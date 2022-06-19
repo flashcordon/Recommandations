@@ -42,6 +42,8 @@
 > Chasseurs de science, un podcast Futura. À chaque épisode, embarquez dans les couloirs du temps pour revivre avec nous les petits et grands événements qui ont forgé la science. Chasseurs de science, c'est une immersion sonore de dix minutes dans la foisonnante histoire des sciences.
 - [100 000 ans](https://www.binge.audio/podcast/100000ans)
 > Aux limites de l’univers, au plus près des atomes et aux confins de l’imagination humaine, 100 000 ans est une enquête sur le temps en 6 épisodes produite par Binge Audio en partenariat avec l’ANDRA.
+- [7e science](https://www.binge.audio/podcast/7escience)
+> Peut-on prévoir le hasard ? Sommes nous tous.tes addicts ? Que se passe-t-il quand nous dormons ? Une fois par mois, Perrine Quennesson décortique avec un·e scientifique la relation entre fictions et sciences à partir de films qui ont marqué l’histoire du cinéma. 7e Science est un podcast de Binge Audio et Sorbonne Université. Durée des épisodes : 26 minutes.
  
 ## Astronomie et espace
 
