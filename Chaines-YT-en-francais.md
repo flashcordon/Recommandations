@@ -35,6 +35,7 @@
 - [HEIN?](https://www.youtube.com/channel/UClmMdBgP85LOjp-X1LPNGdw)
 - [Rêves d'espace](https://www.youtube.com/user/idariane)
 - [Space Apero](https://www.youtube.com/channel/UCnNZKXnA11CWGe9KaKrRofA)
+- [Superama](https://www.youtube.com/c/Superamacosmos)
 
 
 ## Biologie
