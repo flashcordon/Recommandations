@@ -70,6 +70,8 @@
 - [Sciencia Huasca](https://www.youtube.com/channel/UCNMns3zbytLPooWwNmMh9_w)
 - [Philoxime](https://www.youtube.com/channel/UCdKTlsmvczkdvGjiLinQwmw)
 - [Le décodeur philosophique](https://www.youtube.com/c/ledecodeurphilosophique/videos)
+- [La bile philo](https://www.youtube.com/c/Labilephilo)
+- [META](https://www.youtube.com/channel/UCUOgJaic4p3kwuN7LDJ5ukA)
 
 ## Mathématiques
 
