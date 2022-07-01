@@ -26,7 +26,6 @@
 
 - [Florence Porcel](https://www.youtube.com/channel/UC9HapjjoLqdDNwKEWQRaiyA)
 - [Le Sense of Wonder](https://www.youtube.com/channel/UCjsHDXUU3BjBCG7OaCbNDyQ)
-- [Astronogeek](https://www.youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ)
 - [Alice au pays des étoiles](https://www.youtube.com/channel/UCFyTyQRqIj9pcpu7Xsu-U4w)
 - [Above Earth](https://www.youtube.com/channel/UCX6NvxZjKlTduC2d_lrxxzw)
 - [Société Française d'Exobiologie](https://www.youtube.com/channel/UCAdvOFo8AkWq3tp_UeReZ3w)
@@ -40,7 +39,6 @@
 
 ## Biologie
 
-- [DirtyBiology](https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q)
 - [Les Patates Douces](https://www.youtube.com/channel/UC3UpbnP2MYoikPoAl7FOpjg)
 - [Castor Mother](https://www.youtube.com/channel/UCfO4BQD5_S1272GVmuXmTxA)
 - [Melvak](https://www.youtube.com/channel/UCXmsYqZMEJU3y_J8V-sW4NQ)
@@ -109,9 +107,7 @@
 
 ## Zététique
 
-- [La Tronche en Biais](https://www.youtube.com/user/TroncheEnBiais)
 - [Hygiène Mentale](https://www.youtube.com/user/fauxsceptique)
-- [Mr Sam](https://www.youtube.com/user/SamuelBuisseret)
 - [Spline LND](https://www.youtube.com/channel/UCLdmnkqdcTPHvVZ8aNdbf5A)
 - [Aude WTFake](https://www.youtube.com/channel/UC8Ux-LOyEXeioYQ4LFzpBXw)
 - [Mycéliums](https://www.youtube.com/channel/UCJ9kIKgFuAB23GkEko1hHDg)
