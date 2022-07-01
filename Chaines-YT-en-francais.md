@@ -20,6 +20,7 @@
 - [Le Malin Génie](https://www.youtube.com/channel/UCT8fproORyvh6lT296ShKVg)
 - [E-Penser](https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q)
 - [Jamy](https://www.youtube.com/channel/UCG9G2dyRv04FDSH1FSYuLBg)
+- [Tout simplement](https://www.youtube.com/channel/UCzMHLUJ8xTqDq6xsk0N5IdQ/videos)
 
 ## Astronomie
 
