@@ -188,4 +188,8 @@
 > « Intime et Politique » est le flux de podcasts féministes de Nouvelles Ecoutes, proposé par Lauren Bastide. A travers des documentaires sonores de 4 à 6 heures, « Intime et Politique » s’attaque aux racines des discriminations sexistes et des stéréotypes de genre. Dans cette première saison, trois réalisateurs·rices activistes exploreront la thématique des corps sexués des femmes et proposeront de décaler le point de vue.
 - [Entre nos lèvres](https://www.entrenoslevres.fr/)
 
+## Politique
+
+- [Fracas](https://podcasts.apple.com/fr/podcast/fracas/id1529299500)
+> Fracas explore notre rapport à la parole, ce que parler peut changer, et qui peut s'exprimer. Durée des épisodes : entre 10 et 50 minutes.
 
