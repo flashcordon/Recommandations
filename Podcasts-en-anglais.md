@@ -225,4 +225,9 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [The Human Zoo](https://www.bbc.co.uk/programmes/b036tbly)
 > The Human Zoo explores the foibles, quirks and behaviour of that most fascinating of species - us. On BBC Radio 4. Durée des épisodes : 30 minutes.
 - [Origin stories](https://leakeyfoundation.org/originstories/)
-> Origin Stories is The Leakey Foundation’s podcast about how we became human.Durée des épisodes : 30 minutes à 1h.
+> Origin Stories is The Leakey Foundation’s podcast about how we became human. Durée des épisodes : 30 minutes à 1h.
+
+## Politics
+
+- [Tech Empire](https://podcastaddict.com/podcast/3497721)
+> Tech Empire addresses challenges posed by the information society. Hosted by Michael Kwet at Yale University, it takes a global perspective on 21st century politics. This show challenges the tech-driven status quo being created by state and corporate power, and explores how we can create a world where technology makes life better for everyone. From big data surveillance to information equality, from #BlackLivesMatter to #FeesMustFall in South Africa, Tech Empire strikes at the heart of power in the digital age. Durée des épisodes : 1h à 2h.
