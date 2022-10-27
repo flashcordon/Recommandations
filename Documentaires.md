@@ -10,3 +10,4 @@
 - Chasseurs de mondes
 - [Shirley Temple](https://www.tenk.fr/les-films-de-l-uqam/shirley-temple.html) -  Audrey Nantel-Gagnon (2018)
 - The Serengeti Rules 
+- Fire of Love - Sara Dosa (2022)
