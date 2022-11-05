@@ -41,6 +41,7 @@
 - [SpaceRip](https://www.youtube.com/user/SpaceRip)
 - [Josie A Peters](https://www.youtube.com/channel/UCvfN6MRbOBAa94aAkMW0ONA)
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
+- [Event Horizon](https://www.youtube.com/c/EventHorizonShow)
 
 # Earth Sciences and Climate Change
 
