@@ -42,6 +42,7 @@
 - [Josie A Peters](https://www.youtube.com/channel/UCvfN6MRbOBAa94aAkMW0ONA)
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 - [Event Horizon](https://www.youtube.com/c/EventHorizonShow)
+- [History of the Universe](https://www.youtube.com/c/HistoryoftheUniverse) 
 
 # Earth Sciences and Climate Change
 
