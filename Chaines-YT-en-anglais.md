@@ -54,6 +54,7 @@
 - [ClimateAdam](https://www.youtube.com/channel/UCCu5wtZ5uOWZp_roz7wHPfg)
 - [Simon Clark](https://www.youtube.com/user/SimonOxfPhys)
 - [Beckisphere Climate Corner](https://www.youtube.com/@Beckisphere)
+- [Dr Gilbz](https://www.youtube.com/@DrGilbz)
 
 # Physics
 
