@@ -44,6 +44,7 @@
 - [Event Horizon](https://www.youtube.com/c/EventHorizonShow)
 - [History of the Universe](https://www.youtube.com/c/HistoryoftheUniverse) 
 - [Chris Pattison](https://www.youtube.com/c/ChrisPattisonCosmo/videos) 
+- [Sky Scholar](https://www.youtube.com/@SkyScholar/videos)
 
 # Earth Sciences and Climate Change
 
