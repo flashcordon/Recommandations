@@ -43,6 +43,7 @@
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 - [Event Horizon](https://www.youtube.com/c/EventHorizonShow)
 - [History of the Universe](https://www.youtube.com/c/HistoryoftheUniverse) 
+- [Chris Pattison](https://www.youtube.com/c/ChrisPattisonCosmo/videos) 
 
 # Earth Sciences and Climate Change
 
