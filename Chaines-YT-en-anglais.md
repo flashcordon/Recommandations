@@ -46,6 +46,7 @@
 - [Chris Pattison](https://www.youtube.com/c/ChrisPattisonCosmo/videos) 
 - [Sky Scholar](https://www.youtube.com/@SkyScholar/videos)
 - [Paul M. Sutter](https://www.youtube.com/@PaulMSutter/videos)
+- [Space Mog](https://www.youtube.com/@SpaceMog/about)
 
 # Earth Sciences and Climate Change
 
