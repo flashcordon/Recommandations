@@ -154,7 +154,7 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Gardeners of the Galaxy](https://gardenersofthegalaxy.podbean.com/)
 > Gardeners of the Galaxy is a podcast for all of the sentient beings in the Universe who have a passion for plants. Emma the Space Gardener is your guide as you explore cultivating the cosmos, planting planets and sowing seeds in space. Durée des épisodes : 15 à 40 minutes.
 
-## Environement
+## Environment
 
 - [Warm regards](https://soundcloud.com/warmregardspodcast)
 > Warm Regards is a podcast about the warming planet. The show is hosted by Dr. Jacquelyn Gill, a paleoecologist at the University of Maine, and co-host including Dr. Ramesh Laungani, a biologist at Doane University with co-hosts and Dr. Sarah Myhre, a climate scientist, scholar, and communicator. Produced by Justin Schell, and Eric Mack, with transcription and social media support from Joe Stormer and Katherine Peinhardt. Durée des épisodes : "30 minutes à 1h.
@@ -231,3 +231,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 
 - [Tech Empire](https://podcastaddict.com/podcast/3497721)
 > Tech Empire addresses challenges posed by the information society. Hosted by Michael Kwet at Yale University, it takes a global perspective on 21st century politics. This show challenges the tech-driven status quo being created by state and corporate power, and explores how we can create a world where technology makes life better for everyone. From big data surveillance to information equality, from #BlackLivesMatter to #FeesMustFall in South Africa, Tech Empire strikes at the heart of power in the digital age. Durée des épisodes : 1h à 2h.
+
+## Economics
+
+- [Economics for Rebels](https://podcasts.apple.com/us/podcast/economics-for-rebels/id1565762028)
+> The world is on fire. We have to radically and rapidly transform every aspect of society to stay within 1.5 degrees of global warming. How is this possible? And how do we do this in a way that is fair? Ecological economists integrating ecological and critical social perspectives have long been working on ideas to bring about just sustainability transformations. This podcast aims at communicating these ideas in order to open them to critical discussion, from global problems to people’s everyday lives. Durée des épisodes : 30 min à 1h30.
