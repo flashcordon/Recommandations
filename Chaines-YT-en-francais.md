@@ -108,15 +108,6 @@
 - [Risque Alpha](https://www.youtube.com/channel/UCJ7_Ld2cIVY5MM3NcKW3D8A)
 - [Asclepios](https://www.youtube.com/channel/UCDqEttzOpPbDoeC05HRPPDQ)
 
-## Zététique
-
-- [Hygiène Mentale](https://www.youtube.com/user/fauxsceptique)
-- [Spline LND](https://www.youtube.com/channel/UCLdmnkqdcTPHvVZ8aNdbf5A)
-- [Aude WTFake](https://www.youtube.com/channel/UC8Ux-LOyEXeioYQ4LFzpBXw)
-- [Mycéliums](https://www.youtube.com/channel/UCJ9kIKgFuAB23GkEko1hHDg)
-- [Curiosity Catalyst](https://www.youtube.com/user/geoffreyspot)
-- [Esprit Critique](https://www.youtube.com/channel/UC0yPCUmdMZIGtnxSnx5_ifA)
-
 ## Archéologie
 
 - [Passé Sauvage](https://www.youtube.com/channel/UCLhOJJbPciPdocXTaAk2SdA)
