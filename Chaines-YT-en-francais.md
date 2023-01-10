@@ -35,6 +35,7 @@
 - [Rêves d'espace](https://www.youtube.com/user/idariane)
 - [Space Apero](https://www.youtube.com/channel/UCnNZKXnA11CWGe9KaKrRofA)
 - [Superama](https://www.youtube.com/c/Superamacosmos)
+- [Un regard sur l'Espace](https://www.youtube.com/@Unregardsurlespace)
 
 
 ## Biologie
