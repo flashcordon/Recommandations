@@ -115,6 +115,7 @@
 - [Philosophy Tube](https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ)
 - [Religion for breakfast](https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw)
 - [PBS Idea Channel](https://www.youtube.com/user/pbsideachannel)
+- [Overthink Podcast](https://www.youtube.com/@OverthinkPodcastPhilosophy/videos)
 
 # Engineering
 
