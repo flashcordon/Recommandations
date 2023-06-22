@@ -95,6 +95,7 @@
 - [Les Langues de Cha'](https://www.youtube.com/channel/UC0efyK_-Athm8yhyjNSqndQ)
 - [Mondes sociaux](https://www.youtube.com/channel/UC4Jrte_YtwWfANKNyzse5iA)
 - [Sociologeek](https://www.youtube.com/channel/UC7qZfJt-S0RvP9H-5_FLETw)
+- [Sociologos](https://youtu.be/VPz-5z5ag7A)
 
 ## Linguistique
 
