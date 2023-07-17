@@ -138,7 +138,9 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 - [Closer to Truth](https://www.closertotruth.com/shop/podcasts)
 > The greatest thinkers exploring the deepest questions. Your source for Cosmos, Consciousness, Meaning. Durée des épisodes : 27 minutes.
 - [TrueSciPhi's list of philosophy podcasts](https://truesciphi.org/phipod_series.html)
-
+- [Making New Worlds](https://podcasts.apple.com/us/podcast/making-new-worlds/id1309536027)
+> Making New Worlds is a limited-run podcast exploring the ethical issues that will be involved with creating human settlements in space. Durée des épisodes : 20-30 minutes.
+ 
 ## Biology
 
 - [What is Life ?](https://medium.com/@carlzimmer/what-is-life-a-podcast-series-7e91cb9a491b)
