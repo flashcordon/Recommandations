@@ -159,7 +159,9 @@
 - [Paroles d'histoire](http://parolesdhistoire.fr/index.php/liste-des-episodes/)
 > Un podcast consacré à l'actualité des livres, de la recherche et des débats en histoire. Durée des épisodes : 40 min à 1h.
 - [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais/parler-comme-jamais/)
-> Une fois par mois, Laélia Véron, autrice de « Le français est à nous ! », part des clichés que nous avons sur la langue, pour les déconstruire en montrant comment, quand on parle de langage, on parle souvent d’autre chose : d’interactions sociales, de ressentis affectifs, de choix et d’oppositions politiques. Un podcast qui allie rigueur scientifique et approche pédagogique pour décomplexer notre rapport au français. Parler comme jamais est un podcast de Binge Audio, réalisé avec le soutien de la Délégation générale à la langue française et aux langues de France (ministère de la Culture) et avec la collaboration scientifique de Maria Candea, enseignante-chercheuse à l’université de Paris 3. 
+> Une fois par mois, Laélia Véron, autrice de « Le français est à nous ! », part des clichés que nous avons sur la langue, pour les déconstruire en montrant comment, quand on parle de langage, on parle souvent d’autre chose : d’interactions sociales, de ressentis affectifs, de choix et d’oppositions politiques. Un podcast qui allie rigueur scientifique et approche pédagogique pour décomplexer notre rapport au français. Parler comme jamais est un podcast de Binge Audio, réalisé avec le soutien de la Délégation générale à la langue française et aux langues de France (ministère de la Culture) et avec la collaboration scientifique de Maria Candea, enseignante-chercheuse à l’université de Paris 3.
+- [Conversations avec un article](https://podcasters.spotify.com/pod/show/conversations-article)
+> Enseignant-chercheur à l'Université de Nantes en Sciences de l'Information et de la Communication, je rends compte d'articles récents publiés en sciences humaines et sociales dans des revues scientifiques (sociologie, études numériques, anthropologie, communication, féminisme...). Durée des épisodes : 10-25 min.
 
 ## Musique
 
