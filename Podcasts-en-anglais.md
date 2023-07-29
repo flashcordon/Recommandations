@@ -99,6 +99,8 @@ dangers we have never encountered before lurking just ahead. Durée des épisode
 > Podcast of the Lowell Observatory.
 - [Astrosoundbites](https://astrosoundbites.com/)
 > The hosts of astro[sound]bites are three Astronomy PhD students studying a range of astronomy topics at different universities around the United States, excited to share our love of science and interesting new research results. Durée des épisodes : 45 minutes.
+- [Celestial Citizen](https://www.celestialcitizen.com/podcast)
+> A citizen's podcast for planning humanity's future in space - exploring the social, political, technical, and scientific aspects of living off-Earth from the perspective of a space urban planner. Celestial Citizen is a platform for promoting a more equitable and just vision of planetary settlement beyond Earth. This podcast seeks to provide a medium for conversation and discourse around how to be a better interplanetary citizen and responsible steward of Earth. Key initiatives include making space exploration and settlement planning a diverse and inclusive enterprise while promoting sustainability across the solar system. Celestial Citizen aims to solve many challenges facing Earth today with technologies and solutions derived from the space industry. Durée des épisodes : 1h.
 
 ## Physics
 
