@@ -1,6 +1,8 @@
 # Documentaires à voir
 
-- Cosmos, a personal journey
+- Spaceship Earth (2020)
+- Rael : le prophète des extraterrestres (2023)
+- Cosmos, a personal journey (1980)
 - Cosmos, possible worlds
 - Jane
 - Wild Wild Country
